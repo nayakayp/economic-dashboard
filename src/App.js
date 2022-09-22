@@ -1,11 +1,18 @@
 // import papaparse from 'papaparse';
 import React from 'react'
-import Branding from './components/Data/Branding'
+import Brand from './components/Data/Brand'
+import Media from './components/Data/Media'
 
 function App() {
   return (
     <div>
-      <Branding />
+      <ul className="flex space-x-4 justify-center underline mb-8">
+        <li className="font-bold text-2xl cursor-pointer">Brand</li>
+        <li className="font-bold text-2xl cursor-pointer">Media</li>
+        <li className="font-bold text-2xl cursor-pointer">Sales</li>
+      </ul>
+      <Media />
+      <Brand />
 
       {/* // const Papa = papaparse;
   // const handleFileSubmit = (e) => {

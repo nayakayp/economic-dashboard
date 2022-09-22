@@ -1,10 +1,10 @@
 import React from 'react'
+import PropTypes from 'prop-types'
 
 const ColumnFilter = ({column}) => {
   const {filterValue, setFilter} = column
   return (
     <span>
-      Search:{' '}
       <input
         value={filterValue || ''}
         onChange={e => setFilter(e.target.value)}
@@ -12,6 +12,10 @@ const ColumnFilter = ({column}) => {
       />
     </span>
   )
+}
+
+ColumnFilter.propTypes = {
+  column: PropTypes.object,
 }
 
 export default ColumnFilter
