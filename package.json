@@ -48,7 +48,7 @@
     "autoprefixer": "^10.4.11",
     "eslint": "^8.23.1",
     "eslint-config-prettier": "^8.5.0",
-    "husky": "^3.0.3",
+    "husky": "^3.1.0",
     "postcss": "^8.4.16",
     "prettier": "^2.7.1",
     "tailwindcss": "^3.1.8"
