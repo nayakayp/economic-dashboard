@@ -1,0 +1,7994 @@
+[
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-01-08",
+    "Product": "Health",
+    "UnitsSold": 292,
+    "PricePerUnit": 362.9657534,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-01-08",
+    "Product": "Life",
+    "UnitsSold": 1489,
+    "PricePerUnit": 1990.811283,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-01-08",
+    "Product": "Pc",
+    "UnitsSold": 30212.33333,
+    "PricePerUnit": 546.3061282,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-01-15",
+    "Product": "Health",
+    "UnitsSold": 275,
+    "PricePerUnit": 391.5818182,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-01-15",
+    "Product": "Life",
+    "UnitsSold": 1359,
+    "PricePerUnit": 5241.019868,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-01-15",
+    "Product": "Pc",
+    "UnitsSold": 27306,
+    "PricePerUnit": 478.0982202,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-01-22",
+    "Product": "Health",
+    "UnitsSold": 359,
+    "PricePerUnit": 285.7465181,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-01-22",
+    "Product": "Life",
+    "UnitsSold": 1431,
+    "PricePerUnit": 2303.684836,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-01-22",
+    "Product": "Pc",
+    "UnitsSold": 25467,
+    "PricePerUnit": 417.5839321,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-01-29",
+    "Product": "Health",
+    "UnitsSold": 411,
+    "PricePerUnit": 306.7177616,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-01-29",
+    "Product": "Life",
+    "UnitsSold": 1481,
+    "PricePerUnit": 4008.871708,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-01-29",
+    "Product": "Pc",
+    "UnitsSold": 22027,
+    "PricePerUnit": 345.5292141,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-02-05",
+    "Product": "Health",
+    "UnitsSold": 533,
+    "PricePerUnit": 361.6679174,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-02-05",
+    "Product": "Life",
+    "UnitsSold": 2382,
+    "PricePerUnit": 2419.802687,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-02-05",
+    "Product": "Pc",
+    "UnitsSold": 50881,
+    "PricePerUnit": 348.0693776,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-02-12",
+    "Product": "Health",
+    "UnitsSold": 468,
+    "PricePerUnit": 329.2735043,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-02-12",
+    "Product": "Life",
+    "UnitsSold": 2141,
+    "PricePerUnit": 5855.668846,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-02-12",
+    "Product": "Pc",
+    "UnitsSold": 27521,
+    "PricePerUnit": 343.7267905,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-02-19",
+    "Product": "Health",
+    "UnitsSold": 405,
+    "PricePerUnit": 320.1950617,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-02-19",
+    "Product": "Life",
+    "UnitsSold": 1604,
+    "PricePerUnit": 2630.165835,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-02-19",
+    "Product": "Pc",
+    "UnitsSold": 24266,
+    "PricePerUnit": 340.7021759,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-02-26",
+    "Product": "Health",
+    "UnitsSold": 410,
+    "PricePerUnit": 301.495122,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-02-26",
+    "Product": "Life",
+    "UnitsSold": 1631,
+    "PricePerUnit": 2068.267934,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-02-26",
+    "Product": "Pc",
+    "UnitsSold": 23815,
+    "PricePerUnit": 322.0671845,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-03-05",
+    "Product": "Health",
+    "UnitsSold": 404,
+    "PricePerUnit": 475.1237624,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-03-05",
+    "Product": "Life",
+    "UnitsSold": 2887,
+    "PricePerUnit": 3128.575684,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-03-05",
+    "Product": "Pc",
+    "UnitsSold": 51973,
+    "PricePerUnit": 335.3255537,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-03-12",
+    "Product": "Health",
+    "UnitsSold": 329,
+    "PricePerUnit": 351.899696,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-03-12",
+    "Product": "Life",
+    "UnitsSold": 1679,
+    "PricePerUnit": 3932.932102,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-03-12",
+    "Product": "Pc",
+    "UnitsSold": 28677,
+    "PricePerUnit": 344.5100603,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-03-19",
+    "Product": "Health",
+    "UnitsSold": 339,
+    "PricePerUnit": 306.7669617,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-03-19",
+    "Product": "Life",
+    "UnitsSold": 1767,
+    "PricePerUnit": 3457.065648,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-03-19",
+    "Product": "Pc",
+    "UnitsSold": 26270,
+    "PricePerUnit": 345.5205177,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-03-26",
+    "Product": "Health",
+    "UnitsSold": 292,
+    "PricePerUnit": 295.5684932,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-03-26",
+    "Product": "Life",
+    "UnitsSold": 2050,
+    "PricePerUnit": 3715.537561,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-03-26",
+    "Product": "Pc",
+    "UnitsSold": 24960,
+    "PricePerUnit": 340.1350561,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-04-02",
+    "Product": "Health",
+    "UnitsSold": 148,
+    "PricePerUnit": 364.1959459,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-04-02",
+    "Product": "Life",
+    "UnitsSold": 1300,
+    "PricePerUnit": 7386.815385,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-04-02",
+    "Product": "Pc",
+    "UnitsSold": 17608,
+    "PricePerUnit": 359.7769196,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-04-09",
+    "Product": "Health",
+    "UnitsSold": 243,
+    "PricePerUnit": 570.1769547,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-04-09",
+    "Product": "Life",
+    "UnitsSold": 2392,
+    "PricePerUnit": 2625.129181,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-04-09",
+    "Product": "Pc",
+    "UnitsSold": 47523,
+    "PricePerUnit": 373.419439,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-04-16",
+    "Product": "Health",
+    "UnitsSold": 272,
+    "PricePerUnit": 358.4007353,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-04-16",
+    "Product": "Life",
+    "UnitsSold": 1406,
+    "PricePerUnit": 9535.325036,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-04-16",
+    "Product": "Pc",
+    "UnitsSold": 27396,
+    "PricePerUnit": 344.2635421,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-04-23",
+    "Product": "Health",
+    "UnitsSold": 370,
+    "PricePerUnit": 301.7162162,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-04-23",
+    "Product": "Life",
+    "UnitsSold": 1580,
+    "PricePerUnit": 4337.208228,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-04-23",
+    "Product": "Pc",
+    "UnitsSold": 21096,
+    "PricePerUnit": 331.2912874,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-04-30",
+    "Product": "Health",
+    "UnitsSold": 339,
+    "PricePerUnit": 282.4778761,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-04-30",
+    "Product": "Life",
+    "UnitsSold": 1694,
+    "PricePerUnit": 5088.544274,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-04-30",
+    "Product": "Pc",
+    "UnitsSold": 23521,
+    "PricePerUnit": 421.0008928,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-05-07",
+    "Product": "Health",
+    "UnitsSold": 287,
+    "PricePerUnit": 545,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-05-07",
+    "Product": "Life",
+    "UnitsSold": 2096,
+    "PricePerUnit": 2755.237118,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-05-07",
+    "Product": "Pc",
+    "UnitsSold": 42343,
+    "PricePerUnit": 373.9166804,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-05-14",
+    "Product": "Health",
+    "UnitsSold": 309,
+    "PricePerUnit": 347.223301,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-05-14",
+    "Product": "Life",
+    "UnitsSold": 1382,
+    "PricePerUnit": 8633.491317,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-05-14",
+    "Product": "Pc",
+    "UnitsSold": 23177,
+    "PricePerUnit": 323.792855,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-05-21",
+    "Product": "Health",
+    "UnitsSold": 451,
+    "PricePerUnit": 322.2261641,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-05-21",
+    "Product": "Life",
+    "UnitsSold": 1501,
+    "PricePerUnit": 6503.902065,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-05-21",
+    "Product": "Pc",
+    "UnitsSold": 23333,
+    "PricePerUnit": 387.4629066,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-05-28",
+    "Product": "Health",
+    "UnitsSold": 386,
+    "PricePerUnit": 297.7305699,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-05-28",
+    "Product": "Life",
+    "UnitsSold": 1323,
+    "PricePerUnit": 9021.161754,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-05-28",
+    "Product": "Pc",
+    "UnitsSold": 22790,
+    "PricePerUnit": 325.8328214,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-06-04",
+    "Product": "Health",
+    "UnitsSold": 445,
+    "PricePerUnit": 445.5033708,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-06-04",
+    "Product": "Life",
+    "UnitsSold": 2676,
+    "PricePerUnit": 4384.263079,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-06-04",
+    "Product": "Pc",
+    "UnitsSold": 49744,
+    "PricePerUnit": 390.8290648,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-06-11",
+    "Product": "Health",
+    "UnitsSold": 316,
+    "PricePerUnit": 412.2405063,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-06-11",
+    "Product": "Life",
+    "UnitsSold": 1414,
+    "PricePerUnit": 9132.537482,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-06-11",
+    "Product": "Pc",
+    "UnitsSold": 23570,
+    "PricePerUnit": 331.0973271,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-06-18",
+    "Product": "Health",
+    "UnitsSold": 334,
+    "PricePerUnit": 310.248503,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-06-18",
+    "Product": "Life",
+    "UnitsSold": 1513,
+    "PricePerUnit": 5611.592201,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-06-18",
+    "Product": "Pc",
+    "UnitsSold": 25372,
+    "PricePerUnit": 348.2321457,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-06-25",
+    "Product": "Health",
+    "UnitsSold": 360,
+    "PricePerUnit": 334.5527778,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-06-25",
+    "Product": "Life",
+    "UnitsSold": 2090,
+    "PricePerUnit": 7652.220096,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-06-25",
+    "Product": "Pc",
+    "UnitsSold": 24841,
+    "PricePerUnit": 318.9263717,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-07-02",
+    "Product": "Health",
+    "UnitsSold": 1209,
+    "PricePerUnit": 59.33581472,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-07-02",
+    "Product": "Life",
+    "UnitsSold": 2504,
+    "PricePerUnit": 10658.97644,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-07-02",
+    "Product": "Pc",
+    "UnitsSold": 24438,
+    "PricePerUnit": 350.9625992,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-07-09",
+    "Product": "Health",
+    "UnitsSold": 170,
+    "PricePerUnit": 604.8176471,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-07-09",
+    "Product": "Life",
+    "UnitsSold": 1874,
+    "PricePerUnit": 5666.941302,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-07-09",
+    "Product": "Pc",
+    "UnitsSold": 52093,
+    "PricePerUnit": 449.428618,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-07-16",
+    "Product": "Health",
+    "UnitsSold": 212,
+    "PricePerUnit": 360.3254717,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-07-16",
+    "Product": "Life",
+    "UnitsSold": 1276,
+    "PricePerUnit": 7095.351097,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-07-16",
+    "Product": "Pc",
+    "UnitsSold": 27260,
+    "PricePerUnit": 333.1005503,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-07-23",
+    "Product": "Health",
+    "UnitsSold": 213,
+    "PricePerUnit": 346.7230047,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-07-23",
+    "Product": "Life",
+    "UnitsSold": 1107,
+    "PricePerUnit": 7425.711834,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-07-23",
+    "Product": "Pc",
+    "UnitsSold": 23262,
+    "PricePerUnit": 323.7026051,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-07-30",
+    "Product": "Health",
+    "UnitsSold": 205,
+    "PricePerUnit": 336.1756098,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-07-30",
+    "Product": "Life",
+    "UnitsSold": 1371,
+    "PricePerUnit": 8192.392414,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-07-30",
+    "Product": "Pc",
+    "UnitsSold": 20684,
+    "PricePerUnit": 375.9186811,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-08-06",
+    "Product": "Health",
+    "UnitsSold": 217,
+    "PricePerUnit": 543.7511521,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-08-06",
+    "Product": "Life",
+    "UnitsSold": 1708,
+    "PricePerUnit": 7236.898126,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-08-06",
+    "Product": "Pc",
+    "UnitsSold": 43452,
+    "PricePerUnit": 376.6875403,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-08-13",
+    "Product": "Health",
+    "UnitsSold": 35,
+    "PricePerUnit": 345.6285714,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-08-13",
+    "Product": "Life",
+    "UnitsSold": 595,
+    "PricePerUnit": 7445.194958,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-08-13",
+    "Product": "Pc",
+    "UnitsSold": 17040,
+    "PricePerUnit": 361.7640258,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-08-20",
+    "Product": "Health",
+    "UnitsSold": 61,
+    "PricePerUnit": 419.2622951,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-08-20",
+    "Product": "Life",
+    "UnitsSold": 507,
+    "PricePerUnit": 4411.42998,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-08-20",
+    "Product": "Pc",
+    "UnitsSold": 13249,
+    "PricePerUnit": 325.4668277,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-08-27",
+    "Product": "Health",
+    "UnitsSold": 68,
+    "PricePerUnit": 325.6470588,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-08-27",
+    "Product": "Life",
+    "UnitsSold": 471,
+    "PricePerUnit": 4974.836518,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-08-27",
+    "Product": "Pc",
+    "UnitsSold": 13600,
+    "PricePerUnit": 321.1005147,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-09-03",
+    "Product": "Health",
+    "UnitsSold": 68,
+    "PricePerUnit": 639.1323529,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-09-03",
+    "Product": "Life",
+    "UnitsSold": 691,
+    "PricePerUnit": 5209.826339,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-09-03",
+    "Product": "Pc",
+    "UnitsSold": 15425,
+    "PricePerUnit": 374.1476175,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-09-10",
+    "Product": "Health",
+    "UnitsSold": 127,
+    "PricePerUnit": 544.0944882,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-09-10",
+    "Product": "Life",
+    "UnitsSold": 1083,
+    "PricePerUnit": 3074.503232,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-09-10",
+    "Product": "Pc",
+    "UnitsSold": 35288,
+    "PricePerUnit": 408.7021934,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-09-17",
+    "Product": "Health",
+    "UnitsSold": 202,
+    "PricePerUnit": 332.4009901,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-09-17",
+    "Product": "Life",
+    "UnitsSold": 779,
+    "PricePerUnit": 6412.213094,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-09-17",
+    "Product": "Pc",
+    "UnitsSold": 20858,
+    "PricePerUnit": 377.7720779,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-09-24",
+    "Product": "Health",
+    "UnitsSold": 224,
+    "PricePerUnit": 304.1339286,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-09-24",
+    "Product": "Life",
+    "UnitsSold": 1020,
+    "PricePerUnit": 4540.705882,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-09-24",
+    "Product": "Pc",
+    "UnitsSold": 19795,
+    "PricePerUnit": 371.0969437,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-10-01",
+    "Product": "Health",
+    "UnitsSold": 188,
+    "PricePerUnit": 369.5159574,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-10-01",
+    "Product": "Life",
+    "UnitsSold": 1122,
+    "PricePerUnit": 3914.341355,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-10-01",
+    "Product": "Pc",
+    "UnitsSold": 18982,
+    "PricePerUnit": 333.6472974,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-10-08",
+    "Product": "Health",
+    "UnitsSold": 10384,
+    "PricePerUnit": 2305.046493,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-10-08",
+    "Product": "Life",
+    "UnitsSold": 1786,
+    "PricePerUnit": 4276.445689,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-10-08",
+    "Product": "Pc",
+    "UnitsSold": 41645,
+    "PricePerUnit": 396.1445312,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-10-15",
+    "Product": "Health",
+    "UnitsSold": 149,
+    "PricePerUnit": 380.0067114,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-10-15",
+    "Product": "Life",
+    "UnitsSold": 1168,
+    "PricePerUnit": 5264.068493,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-10-15",
+    "Product": "Pc",
+    "UnitsSold": 20868,
+    "PricePerUnit": 421.9718708,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-10-22",
+    "Product": "Health",
+    "UnitsSold": 196,
+    "PricePerUnit": 347.244898,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-10-22",
+    "Product": "Life",
+    "UnitsSold": 1799,
+    "PricePerUnit": 4584.182324,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-10-22",
+    "Product": "Pc",
+    "UnitsSold": 22066,
+    "PricePerUnit": 381.3108855,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-10-29",
+    "Product": "Health",
+    "UnitsSold": 197,
+    "PricePerUnit": 355.4568528,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-10-29",
+    "Product": "Life",
+    "UnitsSold": 1645,
+    "PricePerUnit": 6907.320973,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-10-29",
+    "Product": "Pc",
+    "UnitsSold": 19724,
+    "PricePerUnit": 360.3027783,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-11-05",
+    "Product": "Health",
+    "UnitsSold": 190,
+    "PricePerUnit": 474.8,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-11-05",
+    "Product": "Life",
+    "UnitsSold": 2208,
+    "PricePerUnit": 5294.524909,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-11-05",
+    "Product": "Pc",
+    "UnitsSold": 38780,
+    "PricePerUnit": 481.2440949,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-11-12",
+    "Product": "Health",
+    "UnitsSold": 129,
+    "PricePerUnit": 503.9302326,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-11-12",
+    "Product": "Life",
+    "UnitsSold": 1268,
+    "PricePerUnit": 3889.94795,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-11-12",
+    "Product": "Pc",
+    "UnitsSold": 22807,
+    "PricePerUnit": 278.1959048,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-11-19",
+    "Product": "Health",
+    "UnitsSold": 203,
+    "PricePerUnit": 344.8817734,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-11-19",
+    "Product": "Life",
+    "UnitsSold": 1894,
+    "PricePerUnit": 5681.907075,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-11-19",
+    "Product": "Pc",
+    "UnitsSold": 21644,
+    "PricePerUnit": 353.5862595,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-11-26",
+    "Product": "Health",
+    "UnitsSold": 182,
+    "PricePerUnit": 369.2637363,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-11-26",
+    "Product": "Life",
+    "UnitsSold": 1557,
+    "PricePerUnit": 5670.475273,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-11-26",
+    "Product": "Pc",
+    "UnitsSold": 16389,
+    "PricePerUnit": 441.3448655,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-12-03",
+    "Product": "Health",
+    "UnitsSold": 154,
+    "PricePerUnit": 358.2727273,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-12-03",
+    "Product": "Life",
+    "UnitsSold": 2138,
+    "PricePerUnit": 4578.935319,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-12-03",
+    "Product": "Pc",
+    "UnitsSold": 17284,
+    "PricePerUnit": 203.1168711,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-12-10",
+    "Product": "Health",
+    "UnitsSold": 102,
+    "PricePerUnit": 1059.382353,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-12-10",
+    "Product": "Life",
+    "UnitsSold": 2719,
+    "PricePerUnit": 3487.395366,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-12-10",
+    "Product": "Pc",
+    "UnitsSold": 41462,
+    "PricePerUnit": 479.6198688,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-12-17",
+    "Product": "Health",
+    "UnitsSold": 194,
+    "PricePerUnit": 354.9896907,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-12-17",
+    "Product": "Life",
+    "UnitsSold": 2422,
+    "PricePerUnit": 3865.644096,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-12-17",
+    "Product": "Pc",
+    "UnitsSold": 24186,
+    "PricePerUnit": 443.1292897,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-12-24",
+    "Product": "Health",
+    "UnitsSold": 99,
+    "PricePerUnit": 424.4444444,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-12-24",
+    "Product": "Life",
+    "UnitsSold": 3273,
+    "PricePerUnit": 4264.961198,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-12-24",
+    "Product": "Pc",
+    "UnitsSold": 23058,
+    "PricePerUnit": 397.1094631,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-12-31",
+    "Product": "Health",
+    "UnitsSold": 66,
+    "PricePerUnit": 366.7272727,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-12-31",
+    "Product": "Life",
+    "UnitsSold": 3761,
+    "PricePerUnit": 4468.608349,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2018-12-31",
+    "Product": "Pc",
+    "UnitsSold": 17636,
+    "PricePerUnit": 610.0823316,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-01-07",
+    "Product": "Health",
+    "UnitsSold": 189,
+    "PricePerUnit": 744.1216931,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-01-07",
+    "Product": "Life",
+    "UnitsSold": 2526,
+    "PricePerUnit": 3371.787807,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-01-07",
+    "Product": "Pc",
+    "UnitsSold": 21348,
+    "PricePerUnit": 486.7483885,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-01-14",
+    "Product": "Health",
+    "UnitsSold": 179,
+    "PricePerUnit": 433.452514,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-01-14",
+    "Product": "Life",
+    "UnitsSold": 900,
+    "PricePerUnit": 3377.32,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-01-14",
+    "Product": "Pc",
+    "UnitsSold": 25060,
+    "PricePerUnit": 363.4144453,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-01-21",
+    "Product": "Health",
+    "UnitsSold": 358,
+    "PricePerUnit": 366.4106145,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-01-21",
+    "Product": "Life",
+    "UnitsSold": 1080,
+    "PricePerUnit": 2418.318519,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-01-21",
+    "Product": "Pc",
+    "UnitsSold": 25402,
+    "PricePerUnit": 407.7632076,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-01-28",
+    "Product": "Health",
+    "UnitsSold": 488,
+    "PricePerUnit": 343.5963115,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-01-28",
+    "Product": "Life",
+    "UnitsSold": 999,
+    "PricePerUnit": 7670.650651,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-01-28",
+    "Product": "Pc",
+    "UnitsSold": 21749,
+    "PricePerUnit": 380.7963125,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-02-04",
+    "Product": "Health",
+    "UnitsSold": 625,
+    "PricePerUnit": 383.9344,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-02-04",
+    "Product": "Life",
+    "UnitsSold": 2469,
+    "PricePerUnit": 1610.232888,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-02-04",
+    "Product": "Pc",
+    "UnitsSold": 45671,
+    "PricePerUnit": 391.4537672,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-02-11",
+    "Product": "Health",
+    "UnitsSold": 408,
+    "PricePerUnit": 398.6740196,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-02-11",
+    "Product": "Life",
+    "UnitsSold": 1453,
+    "PricePerUnit": 2798.559532,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-02-11",
+    "Product": "Pc",
+    "UnitsSold": 27373,
+    "PricePerUnit": 352.6124648,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-02-18",
+    "Product": "Health",
+    "UnitsSold": 440,
+    "PricePerUnit": 345.7795455,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-02-18",
+    "Product": "Life",
+    "UnitsSold": 1552,
+    "PricePerUnit": 2749.262887,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-02-18",
+    "Product": "Pc",
+    "UnitsSold": 25374,
+    "PricePerUnit": 351.1381335,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-02-25",
+    "Product": "Health",
+    "UnitsSold": 309,
+    "PricePerUnit": 320.4563107,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-02-25",
+    "Product": "Life",
+    "UnitsSold": 2017,
+    "PricePerUnit": 4086.461081,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-02-25",
+    "Product": "Pc",
+    "UnitsSold": 22226,
+    "PricePerUnit": 384.5138127,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-03-04",
+    "Product": "Health",
+    "UnitsSold": 333,
+    "PricePerUnit": 420.7357357,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-03-04",
+    "Product": "Life",
+    "UnitsSold": 2265,
+    "PricePerUnit": 1887.603532,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-03-04",
+    "Product": "Pc",
+    "UnitsSold": 43929,
+    "PricePerUnit": 393.4778848,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-03-11",
+    "Product": "Health",
+    "UnitsSold": 317,
+    "PricePerUnit": 430.7476341,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-03-11",
+    "Product": "Life",
+    "UnitsSold": 1864,
+    "PricePerUnit": 3019.209764,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-03-11",
+    "Product": "Pc",
+    "UnitsSold": 25375,
+    "PricePerUnit": 368.2454384,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-03-18",
+    "Product": "Health",
+    "UnitsSold": 323,
+    "PricePerUnit": 389.5325077,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-03-18",
+    "Product": "Life",
+    "UnitsSold": 1446,
+    "PricePerUnit": 5099.981328,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-03-18",
+    "Product": "Pc",
+    "UnitsSold": 22988,
+    "PricePerUnit": 387.1895772,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-03-25",
+    "Product": "Health",
+    "UnitsSold": 256,
+    "PricePerUnit": 379.1992188,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-03-25",
+    "Product": "Life",
+    "UnitsSold": 1172,
+    "PricePerUnit": 4764.237201,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-03-25",
+    "Product": "Pc",
+    "UnitsSold": 17554,
+    "PricePerUnit": 350.1274353,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-04-01",
+    "Product": "Health",
+    "UnitsSold": 239,
+    "PricePerUnit": 363.6150628,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-04-01",
+    "Product": "Life",
+    "UnitsSold": 1541,
+    "PricePerUnit": 4853.445814,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-04-01",
+    "Product": "Pc",
+    "UnitsSold": 21637,
+    "PricePerUnit": 310.6561446,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-04-08",
+    "Product": "Health",
+    "UnitsSold": 206,
+    "PricePerUnit": 538.9126214,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-04-08",
+    "Product": "Life",
+    "UnitsSold": 1829,
+    "PricePerUnit": 3454.32094,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-04-08",
+    "Product": "Pc",
+    "UnitsSold": 41663,
+    "PricePerUnit": 457.647433,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-04-15",
+    "Product": "Health",
+    "UnitsSold": 142,
+    "PricePerUnit": 412.2112676,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-04-15",
+    "Product": "Life",
+    "UnitsSold": 1437,
+    "PricePerUnit": 7178.487822,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-04-15",
+    "Product": "Pc",
+    "UnitsSold": 21938,
+    "PricePerUnit": 368.6954599,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-04-22",
+    "Product": "Health",
+    "UnitsSold": 60,
+    "PricePerUnit": 307.55,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-04-22",
+    "Product": "Life",
+    "UnitsSold": 938,
+    "PricePerUnit": 9479.832623,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-04-22",
+    "Product": "Pc",
+    "UnitsSold": 13980,
+    "PricePerUnit": 309.6411302,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-04-29",
+    "Product": "Health",
+    "UnitsSold": 90,
+    "PricePerUnit": 368.9111111,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-04-29",
+    "Product": "Life",
+    "UnitsSold": 1544,
+    "PricePerUnit": 7541.221503,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-04-29",
+    "Product": "Pc",
+    "UnitsSold": 13503,
+    "PricePerUnit": 350.5358809,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-05-06",
+    "Product": "Health",
+    "UnitsSold": 53,
+    "PricePerUnit": 755.7735849,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-05-06",
+    "Product": "Life",
+    "UnitsSold": 2211,
+    "PricePerUnit": 6433.67526,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-05-06",
+    "Product": "Pc",
+    "UnitsSold": 31527,
+    "PricePerUnit": 431.2847718,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-05-13",
+    "Product": "Health",
+    "UnitsSold": 55,
+    "PricePerUnit": 378.7090909,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-05-13",
+    "Product": "Life",
+    "UnitsSold": 1036,
+    "PricePerUnit": 6676.218147,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-05-13",
+    "Product": "Pc",
+    "UnitsSold": 19177,
+    "PricePerUnit": 359.3152214,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-05-20",
+    "Product": "Health",
+    "UnitsSold": 86,
+    "PricePerUnit": 442.872093,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-05-20",
+    "Product": "Life",
+    "UnitsSold": 1280,
+    "PricePerUnit": 5442.396094,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-05-20",
+    "Product": "Pc",
+    "UnitsSold": 18852,
+    "PricePerUnit": 340.163484,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-05-27",
+    "Product": "Health",
+    "UnitsSold": 81,
+    "PricePerUnit": 414.6790123,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-05-27",
+    "Product": "Life",
+    "UnitsSold": 1325,
+    "PricePerUnit": 7177.981887,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-05-27",
+    "Product": "Pc",
+    "UnitsSold": 17321,
+    "PricePerUnit": 532.5850124,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-06-03",
+    "Product": "Health",
+    "UnitsSold": 65,
+    "PricePerUnit": 510.0615385,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-06-03",
+    "Product": "Life",
+    "UnitsSold": 1453,
+    "PricePerUnit": 9104.355127,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-06-03",
+    "Product": "Pc",
+    "UnitsSold": 19619,
+    "PricePerUnit": 300.0095825,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-06-10",
+    "Product": "Health",
+    "UnitsSold": 100,
+    "PricePerUnit": 572.75,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-06-10",
+    "Product": "Life",
+    "UnitsSold": 2075,
+    "PricePerUnit": 3110.555181,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-06-10",
+    "Product": "Pc",
+    "UnitsSold": 37832,
+    "PricePerUnit": 402.6905794,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-06-17",
+    "Product": "Health",
+    "UnitsSold": 66,
+    "PricePerUnit": 594.0151515,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-06-17",
+    "Product": "Life",
+    "UnitsSold": 1195,
+    "PricePerUnit": 5673.114644,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-06-17",
+    "Product": "Pc",
+    "UnitsSold": 23305,
+    "PricePerUnit": 322.4521776,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-06-24",
+    "Product": "Health",
+    "UnitsSold": 64,
+    "PricePerUnit": 403.421875,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-06-24",
+    "Product": "Life",
+    "UnitsSold": 1259,
+    "PricePerUnit": 5020.969817,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-06-24",
+    "Product": "Pc",
+    "UnitsSold": 24272,
+    "PricePerUnit": 384.7261866,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-07-01",
+    "Product": "Health",
+    "UnitsSold": 38,
+    "PricePerUnit": 511.2631579,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-07-01",
+    "Product": "Life",
+    "UnitsSold": 1248,
+    "PricePerUnit": 6669.085737,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-07-01",
+    "Product": "Pc",
+    "UnitsSold": 19616,
+    "PricePerUnit": 317.9915885,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-07-08",
+    "Product": "Health",
+    "UnitsSold": 25,
+    "PricePerUnit": 1335.36,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-07-08",
+    "Product": "Life",
+    "UnitsSold": 1857,
+    "PricePerUnit": 4679.598277,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-07-08",
+    "Product": "Pc",
+    "UnitsSold": 41508,
+    "PricePerUnit": 463.3345138,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-07-15",
+    "Product": "Health",
+    "UnitsSold": 27,
+    "PricePerUnit": 723.1481481,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-07-15",
+    "Product": "Life",
+    "UnitsSold": 1081,
+    "PricePerUnit": 8171.158187,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-07-15",
+    "Product": "Pc",
+    "UnitsSold": 20723,
+    "PricePerUnit": 371.1135936,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-07-22",
+    "Product": "Health",
+    "UnitsSold": 27,
+    "PricePerUnit": 268.4074074,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-07-22",
+    "Product": "Life",
+    "UnitsSold": 1011,
+    "PricePerUnit": 6368.660732,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-07-22",
+    "Product": "Pc",
+    "UnitsSold": 16468,
+    "PricePerUnit": 397.1308598,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-07-29",
+    "Product": "Health",
+    "UnitsSold": 22,
+    "PricePerUnit": 631.4545455,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-07-29",
+    "Product": "Life",
+    "UnitsSold": 1472,
+    "PricePerUnit": 7246.331522,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-07-29",
+    "Product": "Pc",
+    "UnitsSold": 14681,
+    "PricePerUnit": 405.7183434,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-08-05",
+    "Product": "Health",
+    "UnitsSold": 5,
+    "PricePerUnit": 4655.2,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-08-05",
+    "Product": "Life",
+    "UnitsSold": 1595,
+    "PricePerUnit": 4794.356113,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-08-05",
+    "Product": "Pc",
+    "UnitsSold": 28416,
+    "PricePerUnit": 448.5100999,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-08-12",
+    "Product": "Health",
+    "UnitsSold": 29,
+    "PricePerUnit": 710.8965517,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-08-12",
+    "Product": "Life",
+    "UnitsSold": 661,
+    "PricePerUnit": 8326.455371,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-08-12",
+    "Product": "Pc",
+    "UnitsSold": 15121,
+    "PricePerUnit": 385.5452682,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-08-19",
+    "Product": "Health",
+    "UnitsSold": 25,
+    "PricePerUnit": 677.52,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-08-19",
+    "Product": "Life",
+    "UnitsSold": 500,
+    "PricePerUnit": 3165.466,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-08-19",
+    "Product": "Pc",
+    "UnitsSold": 8871,
+    "PricePerUnit": 356.5188817,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-08-26",
+    "Product": "Health",
+    "UnitsSold": 12,
+    "PricePerUnit": 529.4166667,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-08-26",
+    "Product": "Life",
+    "UnitsSold": 539,
+    "PricePerUnit": 5015.06679,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-08-26",
+    "Product": "Pc",
+    "UnitsSold": 9651,
+    "PricePerUnit": 338.9256036,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-09-02",
+    "Product": "Health",
+    "UnitsSold": 12,
+    "PricePerUnit": 394.5,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-09-02",
+    "Product": "Life",
+    "UnitsSold": 569,
+    "PricePerUnit": 8035.261863,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-09-02",
+    "Product": "Pc",
+    "UnitsSold": 11280,
+    "PricePerUnit": 430.764539,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-09-09",
+    "Product": "Health",
+    "UnitsSold": 6196,
+    "PricePerUnit": 1316.941622,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-09-09",
+    "Product": "Life",
+    "UnitsSold": 1112,
+    "PricePerUnit": 2203.118705,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-09-09",
+    "Product": "Pc",
+    "UnitsSold": 22503,
+    "PricePerUnit": 549.3756388,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-09-16",
+    "Product": "Health",
+    "UnitsSold": 30,
+    "PricePerUnit": 527.2,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-09-16",
+    "Product": "Life",
+    "UnitsSold": 769,
+    "PricePerUnit": 3404.122237,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-09-16",
+    "Product": "Pc",
+    "UnitsSold": 14493,
+    "PricePerUnit": 355.351342,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-09-23",
+    "Product": "Health",
+    "UnitsSold": 28,
+    "PricePerUnit": 459.1785714,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-09-23",
+    "Product": "Life",
+    "UnitsSold": 832,
+    "PricePerUnit": 4407.102163,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-09-23",
+    "Product": "Pc",
+    "UnitsSold": 14281,
+    "PricePerUnit": 424.0866886,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-09-30",
+    "Product": "Health",
+    "UnitsSold": 38,
+    "PricePerUnit": 548.0789474,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-09-30",
+    "Product": "Life",
+    "UnitsSold": 1031,
+    "PricePerUnit": 2437.696411,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-09-30",
+    "Product": "Pc",
+    "UnitsSold": 12918,
+    "PricePerUnit": 431.5457501,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-10-07",
+    "Product": "Health",
+    "UnitsSold": 7872,
+    "PricePerUnit": 4464.358685,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-10-07",
+    "Product": "Life",
+    "UnitsSold": 2826,
+    "PricePerUnit": 8497.171621,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-10-07",
+    "Product": "Pc",
+    "UnitsSold": 28285,
+    "PricePerUnit": 524.7789995,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-10-14",
+    "Product": "Health",
+    "UnitsSold": 22,
+    "PricePerUnit": 1053.590909,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-10-14",
+    "Product": "Life",
+    "UnitsSold": 1103,
+    "PricePerUnit": 8120.001813,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-10-14",
+    "Product": "Pc",
+    "UnitsSold": 13268,
+    "PricePerUnit": 500.894483,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-10-21",
+    "Product": "Health",
+    "UnitsSold": 47,
+    "PricePerUnit": 513.5531915,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-10-21",
+    "Product": "Life",
+    "UnitsSold": 1310,
+    "PricePerUnit": 7199.947328,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-10-21",
+    "Product": "Pc",
+    "UnitsSold": 15502,
+    "PricePerUnit": 470.2700942,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-10-28",
+    "Product": "Health",
+    "UnitsSold": 16,
+    "PricePerUnit": 580.4375,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-10-28",
+    "Product": "Life",
+    "UnitsSold": 1334,
+    "PricePerUnit": 7370.624438,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-10-28",
+    "Product": "Pc",
+    "UnitsSold": 13722,
+    "PricePerUnit": 337.6965457,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-11-04",
+    "Product": "Health",
+    "UnitsSold": 17,
+    "PricePerUnit": 951.6470588,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-11-04",
+    "Product": "Life",
+    "UnitsSold": 1090,
+    "PricePerUnit": 9910.834862,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-11-04",
+    "Product": "Pc",
+    "UnitsSold": 11082,
+    "PricePerUnit": 347.9238405,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-11-11",
+    "Product": "Health",
+    "UnitsSold": 6589.5,
+    "PricePerUnit": 2652.103313,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-11-11",
+    "Product": "Life",
+    "UnitsSold": 2097,
+    "PricePerUnit": 4956.282785,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-11-11",
+    "Product": "Pc",
+    "UnitsSold": 28605,
+    "PricePerUnit": 527.3137913,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-11-18",
+    "Product": "Health",
+    "UnitsSold": 51,
+    "PricePerUnit": 497.9215686,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-11-18",
+    "Product": "Life",
+    "UnitsSold": 1284,
+    "PricePerUnit": 7703.071651,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-11-18",
+    "Product": "Pc",
+    "UnitsSold": 10563,
+    "PricePerUnit": 610.686074,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-11-25",
+    "Product": "Health",
+    "UnitsSold": 23,
+    "PricePerUnit": 536.6956522,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-11-25",
+    "Product": "Life",
+    "UnitsSold": 2586,
+    "PricePerUnit": 6359.082367,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-11-25",
+    "Product": "Pc",
+    "UnitsSold": 12874,
+    "PricePerUnit": 424.2523691,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-12-02",
+    "Product": "Health",
+    "UnitsSold": 21,
+    "PricePerUnit": 670.5714286,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-12-02",
+    "Product": "Life",
+    "UnitsSold": 1860,
+    "PricePerUnit": 13949.66129,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-12-02",
+    "Product": "Pc",
+    "UnitsSold": 9020,
+    "PricePerUnit": 598.6032151,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-12-09",
+    "Product": "Health",
+    "UnitsSold": 5613.5,
+    "PricePerUnit": 2395.299342,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-12-09",
+    "Product": "Life",
+    "UnitsSold": 2207,
+    "PricePerUnit": 4191.995469,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-12-09",
+    "Product": "Pc",
+    "UnitsSold": 26989,
+    "PricePerUnit": 649.5737152,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-12-16",
+    "Product": "Health",
+    "UnitsSold": 29,
+    "PricePerUnit": 698.4827586,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-12-16",
+    "Product": "Life",
+    "UnitsSold": 1879,
+    "PricePerUnit": 7231.8595,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-12-16",
+    "Product": "Pc",
+    "UnitsSold": 14297,
+    "PricePerUnit": 412.0744912,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-12-23",
+    "Product": "Health",
+    "UnitsSold": 29,
+    "PricePerUnit": 556.4482759,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-12-23",
+    "Product": "Life",
+    "UnitsSold": 2818,
+    "PricePerUnit": 7408.439319,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-12-23",
+    "Product": "Pc",
+    "UnitsSold": 17399,
+    "PricePerUnit": 495.1211564,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-12-30",
+    "Product": "Health",
+    "UnitsSold": 17,
+    "PricePerUnit": 872.1176471,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-12-30",
+    "Product": "Life",
+    "UnitsSold": 2785,
+    "PricePerUnit": 7228.997487,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2019-12-30",
+    "Product": "Pc",
+    "UnitsSold": 13650,
+    "PricePerUnit": 421.8223443,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-01-06",
+    "Product": "Health",
+    "UnitsSold": 110,
+    "PricePerUnit": 371.0909091,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-01-06",
+    "Product": "Life",
+    "UnitsSold": 3265,
+    "PricePerUnit": 3589.523737,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-01-06",
+    "Product": "Pc",
+    "UnitsSold": 15322.5,
+    "PricePerUnit": 458.2697188,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-01-13",
+    "Product": "Health",
+    "UnitsSold": 51,
+    "PricePerUnit": 584.8039216,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-01-13",
+    "Product": "Life",
+    "UnitsSold": 880,
+    "PricePerUnit": 3716.468182,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-01-13",
+    "Product": "Pc",
+    "UnitsSold": 16995,
+    "PricePerUnit": 494.7170933,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-01-20",
+    "Product": "Health",
+    "UnitsSold": 39,
+    "PricePerUnit": 730.1025641,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-01-20",
+    "Product": "Life",
+    "UnitsSold": 1237,
+    "PricePerUnit": 3694.598222,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-01-20",
+    "Product": "Pc",
+    "UnitsSold": 19339,
+    "PricePerUnit": 475.0536222,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-01-27",
+    "Product": "Health",
+    "UnitsSold": 37,
+    "PricePerUnit": 979.9189189,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-01-27",
+    "Product": "Life",
+    "UnitsSold": 1149,
+    "PricePerUnit": 5064.284595,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-01-27",
+    "Product": "Pc",
+    "UnitsSold": 16740,
+    "PricePerUnit": 514.9497611,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-02-03",
+    "Product": "Health",
+    "UnitsSold": 34,
+    "PricePerUnit": 494.1764706,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-02-03",
+    "Product": "Life",
+    "UnitsSold": 1747,
+    "PricePerUnit": 7243.266171,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-02-03",
+    "Product": "Pc",
+    "UnitsSold": 16092,
+    "PricePerUnit": 399.3382426,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-02-10",
+    "Product": "Health",
+    "UnitsSold": 63,
+    "PricePerUnit": 579.047619,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-02-10",
+    "Product": "Life",
+    "UnitsSold": 1894,
+    "PricePerUnit": 4049.729673,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-02-10",
+    "Product": "Pc",
+    "UnitsSold": 35998,
+    "PricePerUnit": 457.468776,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-02-17",
+    "Product": "Health",
+    "UnitsSold": 35,
+    "PricePerUnit": 557.3714286,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-02-17",
+    "Product": "Life",
+    "UnitsSold": 1396,
+    "PricePerUnit": 6196.902579,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-02-17",
+    "Product": "Pc",
+    "UnitsSold": 17254,
+    "PricePerUnit": 423.2599977,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-02-24",
+    "Product": "Health",
+    "UnitsSold": 36,
+    "PricePerUnit": 532,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-02-24",
+    "Product": "Life",
+    "UnitsSold": 1327,
+    "PricePerUnit": 6753.55991,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-02-24",
+    "Product": "Pc",
+    "UnitsSold": 16218,
+    "PricePerUnit": 444.3504748,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-03-02",
+    "Product": "Health",
+    "UnitsSold": 34,
+    "PricePerUnit": 590.1764706,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-03-02",
+    "Product": "Life",
+    "UnitsSold": 1185,
+    "PricePerUnit": 8886.2,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-03-02",
+    "Product": "Pc",
+    "UnitsSold": 15757,
+    "PricePerUnit": 344.3901123,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-03-09",
+    "Product": "Health",
+    "UnitsSold": 55,
+    "PricePerUnit": 937.6363636,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-03-09",
+    "Product": "Life",
+    "UnitsSold": 2783,
+    "PricePerUnit": 5028.177147,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-03-09",
+    "Product": "Pc",
+    "UnitsSold": 38797,
+    "PricePerUnit": 552.737789,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-03-16",
+    "Product": "Health",
+    "UnitsSold": 46,
+    "PricePerUnit": 642.2173913,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-03-16",
+    "Product": "Life",
+    "UnitsSold": 1390,
+    "PricePerUnit": 3936.611511,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-03-16",
+    "Product": "Pc",
+    "UnitsSold": 16883,
+    "PricePerUnit": 655.7926909,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-03-23",
+    "Product": "Health",
+    "UnitsSold": 34,
+    "PricePerUnit": 605.2352941,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-03-23",
+    "Product": "Life",
+    "UnitsSold": 695,
+    "PricePerUnit": 3496.317986,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-03-23",
+    "Product": "Pc",
+    "UnitsSold": 6622,
+    "PricePerUnit": 432.1146179,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-03-30",
+    "Product": "Health",
+    "UnitsSold": 14,
+    "PricePerUnit": 616.2857143,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-03-30",
+    "Product": "Life",
+    "UnitsSold": 482,
+    "PricePerUnit": 518.1368796,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-03-30",
+    "Product": "Pc",
+    "UnitsSold": 4266,
+    "PricePerUnit": 419.988045,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-04-06",
+    "Product": "Health",
+    "UnitsSold": 28,
+    "PricePerUnit": 1133.607143,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-04-06",
+    "Product": "Life",
+    "UnitsSold": 1625,
+    "PricePerUnit": 1767.925538,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-04-06",
+    "Product": "Pc",
+    "UnitsSold": 20556,
+    "PricePerUnit": 534.1086301,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-04-13",
+    "Product": "Health",
+    "UnitsSold": 15,
+    "PricePerUnit": 787.2666667,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-04-13",
+    "Product": "Life",
+    "UnitsSold": 463,
+    "PricePerUnit": 7012.468683,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-04-13",
+    "Product": "Pc",
+    "UnitsSold": 4434,
+    "PricePerUnit": 812.8836265,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-04-20",
+    "Product": "Health",
+    "UnitsSold": 11,
+    "PricePerUnit": 774.0909091,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-04-20",
+    "Product": "Life",
+    "UnitsSold": 579,
+    "PricePerUnit": 4626.103627,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-04-20",
+    "Product": "Pc",
+    "UnitsSold": 7739,
+    "PricePerUnit": 333.3484946,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-04-27",
+    "Product": "Health",
+    "UnitsSold": 9,
+    "PricePerUnit": 699.6666667,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-04-27",
+    "Product": "Life",
+    "UnitsSold": 595,
+    "PricePerUnit": 10445.52941,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-04-27",
+    "Product": "Pc",
+    "UnitsSold": 8197,
+    "PricePerUnit": 427.4659022,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-05-04",
+    "Product": "Health",
+    "UnitsSold": 12,
+    "PricePerUnit": 628.3333333,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-05-04",
+    "Product": "Life",
+    "UnitsSold": 537,
+    "PricePerUnit": 9484.934823,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-05-04",
+    "Product": "Pc",
+    "UnitsSold": 4713,
+    "PricePerUnit": 252.4116274,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-05-11",
+    "Product": "Health",
+    "UnitsSold": 30,
+    "PricePerUnit": 878.5333333,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-05-11",
+    "Product": "Life",
+    "UnitsSold": 1641,
+    "PricePerUnit": 2088.966484,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-05-11",
+    "Product": "Pc",
+    "UnitsSold": 30559,
+    "PricePerUnit": 466.8475735,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-05-18",
+    "Product": "Health",
+    "UnitsSold": 17,
+    "PricePerUnit": 340.5882353,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-05-18",
+    "Product": "Life",
+    "UnitsSold": 843,
+    "PricePerUnit": 3646.03796,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-05-18",
+    "Product": "Pc",
+    "UnitsSold": 14031,
+    "PricePerUnit": 485.678854,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-05-25",
+    "Product": "Health",
+    "UnitsSold": 17,
+    "PricePerUnit": 654.4705882,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-05-25",
+    "Product": "Life",
+    "UnitsSold": 826,
+    "PricePerUnit": 9182.2046,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-05-25",
+    "Product": "Pc",
+    "UnitsSold": 15009,
+    "PricePerUnit": 339.0829502,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-06-01",
+    "Product": "Health",
+    "UnitsSold": 14,
+    "PricePerUnit": 675.2857143,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-06-01",
+    "Product": "Life",
+    "UnitsSold": 791,
+    "PricePerUnit": 6718.82933,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-06-01",
+    "Product": "Pc",
+    "UnitsSold": 15115,
+    "PricePerUnit": 339.5743301,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-06-08",
+    "Product": "Health",
+    "UnitsSold": 28,
+    "PricePerUnit": 1077,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-06-08",
+    "Product": "Life",
+    "UnitsSold": 2210,
+    "PricePerUnit": 3124.068326,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-06-08",
+    "Product": "Pc",
+    "UnitsSold": 43593,
+    "PricePerUnit": 389.3693942,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-06-15",
+    "Product": "Health",
+    "UnitsSold": 27,
+    "PricePerUnit": 506.1851852,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-06-15",
+    "Product": "Life",
+    "UnitsSold": 1241,
+    "PricePerUnit": 6003.044319,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-06-15",
+    "Product": "Pc",
+    "UnitsSold": 23455,
+    "PricePerUnit": 395.4193562,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-06-22",
+    "Product": "Health",
+    "UnitsSold": 25,
+    "PricePerUnit": 418.52,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-06-22",
+    "Product": "Life",
+    "UnitsSold": 1232,
+    "PricePerUnit": 4654.395292,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-06-22",
+    "Product": "Pc",
+    "UnitsSold": 21401,
+    "PricePerUnit": 268.2783048,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-06-29",
+    "Product": "Health",
+    "UnitsSold": 18,
+    "PricePerUnit": 618.3888889,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-06-29",
+    "Product": "Life",
+    "UnitsSold": 1045,
+    "PricePerUnit": 10866.87368,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-06-29",
+    "Product": "Pc",
+    "UnitsSold": 20376,
+    "PricePerUnit": 281.9464566,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-07-06",
+    "Product": "Health",
+    "UnitsSold": 41,
+    "PricePerUnit": 641.4878049,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-07-06",
+    "Product": "Life",
+    "UnitsSold": 2525,
+    "PricePerUnit": 2978.47604,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-07-06",
+    "Product": "Pc",
+    "UnitsSold": 50535,
+    "PricePerUnit": 441.413456,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-07-13",
+    "Product": "Health",
+    "UnitsSold": 38,
+    "PricePerUnit": 794.8421053,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-07-13",
+    "Product": "Life",
+    "UnitsSold": 1066,
+    "PricePerUnit": 2657.624765,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-07-13",
+    "Product": "Pc",
+    "UnitsSold": 25738,
+    "PricePerUnit": 365.9938612,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-07-20",
+    "Product": "Health",
+    "UnitsSold": 32,
+    "PricePerUnit": 759.34375,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-07-20",
+    "Product": "Life",
+    "UnitsSold": 1049,
+    "PricePerUnit": 2407.891325,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-07-20",
+    "Product": "Pc",
+    "UnitsSold": 20907,
+    "PricePerUnit": 329.9603004,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-07-27",
+    "Product": "Health",
+    "UnitsSold": 23,
+    "PricePerUnit": 296.826087,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-07-27",
+    "Product": "Life",
+    "UnitsSold": 929,
+    "PricePerUnit": 4348.152853,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-07-27",
+    "Product": "Pc",
+    "UnitsSold": 19672,
+    "PricePerUnit": 370.3476515,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-08-03",
+    "Product": "Health",
+    "UnitsSold": 19,
+    "PricePerUnit": 424.3684211,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-08-03",
+    "Product": "Life",
+    "UnitsSold": 1276,
+    "PricePerUnit": 6858.190439,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-08-03",
+    "Product": "Pc",
+    "UnitsSold": 16417,
+    "PricePerUnit": 325.6280076,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-08-10",
+    "Product": "Health",
+    "UnitsSold": 39,
+    "PricePerUnit": 812.4102564,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-08-10",
+    "Product": "Life",
+    "UnitsSold": 1835,
+    "PricePerUnit": 1781.06376,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-08-10",
+    "Product": "Pc",
+    "UnitsSold": 37543,
+    "PricePerUnit": 424.3383587,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-08-17",
+    "Product": "Health",
+    "UnitsSold": 13,
+    "PricePerUnit": 356.3076923,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-08-17",
+    "Product": "Life",
+    "UnitsSold": 728,
+    "PricePerUnit": 3033.868132,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-08-17",
+    "Product": "Pc",
+    "UnitsSold": 15034,
+    "PricePerUnit": 385.1438074,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-08-24",
+    "Product": "Health",
+    "UnitsSold": 23,
+    "PricePerUnit": 580.9565217,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-08-24",
+    "Product": "Life",
+    "UnitsSold": 591,
+    "PricePerUnit": 1455.407783,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-08-24",
+    "Product": "Pc",
+    "UnitsSold": 12397,
+    "PricePerUnit": 374.9070743,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-08-31",
+    "Product": "Health",
+    "UnitsSold": 10,
+    "PricePerUnit": 843.3,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-08-31",
+    "Product": "Life",
+    "UnitsSold": 647,
+    "PricePerUnit": 2412.367852,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-08-31",
+    "Product": "Pc",
+    "UnitsSold": 12057,
+    "PricePerUnit": 430.3020652,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-09-07",
+    "Product": "Health",
+    "UnitsSold": 39,
+    "PricePerUnit": 824.974359,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-09-07",
+    "Product": "Life",
+    "UnitsSold": 1468,
+    "PricePerUnit": 1486.21049,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-09-07",
+    "Product": "Pc",
+    "UnitsSold": 29853,
+    "PricePerUnit": 428.4514789,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-09-14",
+    "Product": "Health",
+    "UnitsSold": 26,
+    "PricePerUnit": 553.7692308,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-09-14",
+    "Product": "Life",
+    "UnitsSold": 752,
+    "PricePerUnit": 3161.121011,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-09-14",
+    "Product": "Pc",
+    "UnitsSold": 15718,
+    "PricePerUnit": 371.0862705,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-09-21",
+    "Product": "Health",
+    "UnitsSold": 46,
+    "PricePerUnit": 541.9347826,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-09-21",
+    "Product": "Life",
+    "UnitsSold": 1045,
+    "PricePerUnit": 2482.954067,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-09-21",
+    "Product": "Pc",
+    "UnitsSold": 15990,
+    "PricePerUnit": 437.7759225,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-09-28",
+    "Product": "Health",
+    "UnitsSold": 26,
+    "PricePerUnit": 527.8461538,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-09-28",
+    "Product": "Life",
+    "UnitsSold": 1118,
+    "PricePerUnit": 3997.236136,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-09-28",
+    "Product": "Pc",
+    "UnitsSold": 14933,
+    "PricePerUnit": 332.3306101,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-10-05",
+    "Product": "Health",
+    "UnitsSold": 51,
+    "PricePerUnit": 579.4901961,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-10-05",
+    "Product": "Life",
+    "UnitsSold": 1741,
+    "PricePerUnit": 2165.897186,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-10-05",
+    "Product": "Pc",
+    "UnitsSold": 30943,
+    "PricePerUnit": 471.0502214,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-10-12",
+    "Product": "Health",
+    "UnitsSold": 45,
+    "PricePerUnit": 565.1777778,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-10-12",
+    "Product": "Life",
+    "UnitsSold": 1022,
+    "PricePerUnit": 3105.417808,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-10-12",
+    "Product": "Pc",
+    "UnitsSold": 19290,
+    "PricePerUnit": 408.8445308,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-10-19",
+    "Product": "Health",
+    "UnitsSold": 35,
+    "PricePerUnit": 889.8,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-10-19",
+    "Product": "Life",
+    "UnitsSold": 1383,
+    "PricePerUnit": 2719.815618,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-10-19",
+    "Product": "Pc",
+    "UnitsSold": 13807,
+    "PricePerUnit": 395.0388933,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-10-26",
+    "Product": "Health",
+    "UnitsSold": 29,
+    "PricePerUnit": 635.8275862,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-10-26",
+    "Product": "Life",
+    "UnitsSold": 1034,
+    "PricePerUnit": 3752.498066,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-10-26",
+    "Product": "Pc",
+    "UnitsSold": 15067,
+    "PricePerUnit": 340.4493263,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-11-02",
+    "Product": "Health",
+    "UnitsSold": 30,
+    "PricePerUnit": 732.0333333,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-11-02",
+    "Product": "Life",
+    "UnitsSold": 984,
+    "PricePerUnit": 2944.421748,
+    "Grouping": "all"
+  },
+  {
+    "Country": "SWE",
+    "Region": "all",
+    "Date": "2020-11-02",
+    "Product": "Pc",
+    "UnitsSold": 14252,
+    "PricePerUnit": 328.3105529,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-01-08",
+    "Product": "Health",
+    "UnitsSold": 1168,
+    "PricePerUnit": 120.9885845,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-01-08",
+    "Product": "Life",
+    "UnitsSold": 5956,
+    "PricePerUnit": 663.6037609,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-01-08",
+    "Product": "Pc",
+    "UnitsSold": 120849.3333,
+    "PricePerUnit": 182.1020427,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-01-15",
+    "Product": "Health",
+    "UnitsSold": 1100,
+    "PricePerUnit": 130.5272727,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-01-15",
+    "Product": "Life",
+    "UnitsSold": 5436,
+    "PricePerUnit": 1747.006623,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-01-15",
+    "Product": "Pc",
+    "UnitsSold": 109224,
+    "PricePerUnit": 159.3660734,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-01-22",
+    "Product": "Health",
+    "UnitsSold": 1436,
+    "PricePerUnit": 95.24883937,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-01-22",
+    "Product": "Life",
+    "UnitsSold": 5724,
+    "PricePerUnit": 767.8949453,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-01-22",
+    "Product": "Pc",
+    "UnitsSold": 101868,
+    "PricePerUnit": 139.194644,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-01-29",
+    "Product": "Health",
+    "UnitsSold": 1644,
+    "PricePerUnit": 102.2392539,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-01-29",
+    "Product": "Life",
+    "UnitsSold": 5924,
+    "PricePerUnit": 1336.290569,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-01-29",
+    "Product": "Pc",
+    "UnitsSold": 88108,
+    "PricePerUnit": 115.1764047,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-02-05",
+    "Product": "Health",
+    "UnitsSold": 2132,
+    "PricePerUnit": 120.5559725,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-02-05",
+    "Product": "Life",
+    "UnitsSold": 9528,
+    "PricePerUnit": 806.6008956,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-02-05",
+    "Product": "Pc",
+    "UnitsSold": 203524,
+    "PricePerUnit": 116.0231259,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-02-12",
+    "Product": "Health",
+    "UnitsSold": 1872,
+    "PricePerUnit": 109.7578348,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-02-12",
+    "Product": "Life",
+    "UnitsSold": 8564,
+    "PricePerUnit": 1951.889615,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-02-12",
+    "Product": "Pc",
+    "UnitsSold": 110084,
+    "PricePerUnit": 114.5755968,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-02-19",
+    "Product": "Health",
+    "UnitsSold": 1620,
+    "PricePerUnit": 106.7316872,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-02-19",
+    "Product": "Life",
+    "UnitsSold": 6416,
+    "PricePerUnit": 876.7219451,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-02-19",
+    "Product": "Pc",
+    "UnitsSold": 97064,
+    "PricePerUnit": 113.567392,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-02-26",
+    "Product": "Health",
+    "UnitsSold": 1640,
+    "PricePerUnit": 100.498374,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-02-26",
+    "Product": "Life",
+    "UnitsSold": 6524,
+    "PricePerUnit": 689.4226446,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-02-26",
+    "Product": "Pc",
+    "UnitsSold": 95260,
+    "PricePerUnit": 107.3557282,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-03-05",
+    "Product": "Health",
+    "UnitsSold": 1616,
+    "PricePerUnit": 158.3745875,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-03-05",
+    "Product": "Life",
+    "UnitsSold": 11548,
+    "PricePerUnit": 1042.858561,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-03-05",
+    "Product": "Pc",
+    "UnitsSold": 207892,
+    "PricePerUnit": 111.7751846,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-03-12",
+    "Product": "Health",
+    "UnitsSold": 1316,
+    "PricePerUnit": 117.2998987,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-03-12",
+    "Product": "Life",
+    "UnitsSold": 6716,
+    "PricePerUnit": 1310.977367,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-03-12",
+    "Product": "Pc",
+    "UnitsSold": 114708,
+    "PricePerUnit": 114.8366868,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-03-19",
+    "Product": "Health",
+    "UnitsSold": 1356,
+    "PricePerUnit": 102.2556539,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-03-19",
+    "Product": "Life",
+    "UnitsSold": 7068,
+    "PricePerUnit": 1152.355216,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-03-19",
+    "Product": "Pc",
+    "UnitsSold": 105080,
+    "PricePerUnit": 115.1735059,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-03-26",
+    "Product": "Health",
+    "UnitsSold": 1168,
+    "PricePerUnit": 98.52283105,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-03-26",
+    "Product": "Life",
+    "UnitsSold": 8200,
+    "PricePerUnit": 1238.51252,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-03-26",
+    "Product": "Pc",
+    "UnitsSold": 99840,
+    "PricePerUnit": 113.378352,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-04-02",
+    "Product": "Health",
+    "UnitsSold": 592,
+    "PricePerUnit": 121.3986486,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-04-02",
+    "Product": "Life",
+    "UnitsSold": 5200,
+    "PricePerUnit": 2462.271795,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-04-02",
+    "Product": "Pc",
+    "UnitsSold": 70432,
+    "PricePerUnit": 119.9256399,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-04-09",
+    "Product": "Health",
+    "UnitsSold": 972,
+    "PricePerUnit": 190.0589849,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-04-09",
+    "Product": "Life",
+    "UnitsSold": 9568,
+    "PricePerUnit": 875.0430602,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-04-09",
+    "Product": "Pc",
+    "UnitsSold": 190092,
+    "PricePerUnit": 124.4731463,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-04-16",
+    "Product": "Health",
+    "UnitsSold": 1088,
+    "PricePerUnit": 119.4669118,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-04-16",
+    "Product": "Life",
+    "UnitsSold": 5624,
+    "PricePerUnit": 3178.441679,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-04-16",
+    "Product": "Pc",
+    "UnitsSold": 109584,
+    "PricePerUnit": 114.754514,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-04-23",
+    "Product": "Health",
+    "UnitsSold": 1480,
+    "PricePerUnit": 100.5720721,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-04-23",
+    "Product": "Life",
+    "UnitsSold": 6320,
+    "PricePerUnit": 1445.736076,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-04-23",
+    "Product": "Pc",
+    "UnitsSold": 84384,
+    "PricePerUnit": 110.4304291,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-04-30",
+    "Product": "Health",
+    "UnitsSold": 1356,
+    "PricePerUnit": 94.15929204,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-04-30",
+    "Product": "Life",
+    "UnitsSold": 6776,
+    "PricePerUnit": 1696.181425,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-04-30",
+    "Product": "Pc",
+    "UnitsSold": 94084,
+    "PricePerUnit": 140.3336309,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-05-07",
+    "Product": "Health",
+    "UnitsSold": 1148,
+    "PricePerUnit": 181.6666667,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-05-07",
+    "Product": "Life",
+    "UnitsSold": 8384,
+    "PricePerUnit": 918.4123728,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-05-07",
+    "Product": "Pc",
+    "UnitsSold": 169372,
+    "PricePerUnit": 124.6388935,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-05-14",
+    "Product": "Health",
+    "UnitsSold": 1236,
+    "PricePerUnit": 115.7411003,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-05-14",
+    "Product": "Life",
+    "UnitsSold": 5528,
+    "PricePerUnit": 2877.830439,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-05-14",
+    "Product": "Pc",
+    "UnitsSold": 92708,
+    "PricePerUnit": 107.9309517,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-05-21",
+    "Product": "Health",
+    "UnitsSold": 1804,
+    "PricePerUnit": 107.4087214,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-05-21",
+    "Product": "Life",
+    "UnitsSold": 6004,
+    "PricePerUnit": 2167.967355,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-05-21",
+    "Product": "Pc",
+    "UnitsSold": 93332,
+    "PricePerUnit": 129.1543022,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-05-28",
+    "Product": "Health",
+    "UnitsSold": 1544,
+    "PricePerUnit": 99.24352332,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-05-28",
+    "Product": "Life",
+    "UnitsSold": 5292,
+    "PricePerUnit": 3007.053918,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-05-28",
+    "Product": "Pc",
+    "UnitsSold": 91160,
+    "PricePerUnit": 108.6109405,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-06-04",
+    "Product": "Health",
+    "UnitsSold": 1780,
+    "PricePerUnit": 148.5011236,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-06-04",
+    "Product": "Life",
+    "UnitsSold": 10704,
+    "PricePerUnit": 1461.421026,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-06-04",
+    "Product": "Pc",
+    "UnitsSold": 198976,
+    "PricePerUnit": 130.2763549,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-06-11",
+    "Product": "Health",
+    "UnitsSold": 1264,
+    "PricePerUnit": 137.4135021,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-06-11",
+    "Product": "Life",
+    "UnitsSold": 5656,
+    "PricePerUnit": 3044.179161,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-06-11",
+    "Product": "Pc",
+    "UnitsSold": 94280,
+    "PricePerUnit": 110.3657757,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-06-18",
+    "Product": "Health",
+    "UnitsSold": 1336,
+    "PricePerUnit": 103.4161677,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-06-18",
+    "Product": "Life",
+    "UnitsSold": 6052,
+    "PricePerUnit": 1870.530734,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-06-18",
+    "Product": "Pc",
+    "UnitsSold": 101488,
+    "PricePerUnit": 116.0773819,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-06-25",
+    "Product": "Health",
+    "UnitsSold": 1440,
+    "PricePerUnit": 111.5175926,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-06-25",
+    "Product": "Life",
+    "UnitsSold": 8360,
+    "PricePerUnit": 2550.740032,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-06-25",
+    "Product": "Pc",
+    "UnitsSold": 99364,
+    "PricePerUnit": 106.3087906,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-07-02",
+    "Product": "Health",
+    "UnitsSold": 4836,
+    "PricePerUnit": 19.77860491,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-07-02",
+    "Product": "Life",
+    "UnitsSold": 10016,
+    "PricePerUnit": 3552.992146,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-07-02",
+    "Product": "Pc",
+    "UnitsSold": 97752,
+    "PricePerUnit": 116.9875331,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-07-09",
+    "Product": "Health",
+    "UnitsSold": 680,
+    "PricePerUnit": 201.6058824,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-07-09",
+    "Product": "Life",
+    "UnitsSold": 7496,
+    "PricePerUnit": 1888.980434,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-07-09",
+    "Product": "Pc",
+    "UnitsSold": 208372,
+    "PricePerUnit": 149.8095393,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-07-16",
+    "Product": "Health",
+    "UnitsSold": 848,
+    "PricePerUnit": 120.1084906,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-07-16",
+    "Product": "Life",
+    "UnitsSold": 5104,
+    "PricePerUnit": 2365.117032,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-07-16",
+    "Product": "Pc",
+    "UnitsSold": 109040,
+    "PricePerUnit": 111.0335168,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-07-23",
+    "Product": "Health",
+    "UnitsSold": 852,
+    "PricePerUnit": 115.5743349,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-07-23",
+    "Product": "Life",
+    "UnitsSold": 4428,
+    "PricePerUnit": 2475.237278,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-07-23",
+    "Product": "Pc",
+    "UnitsSold": 93048,
+    "PricePerUnit": 107.9008684,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-07-30",
+    "Product": "Health",
+    "UnitsSold": 820,
+    "PricePerUnit": 112.0585366,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-07-30",
+    "Product": "Life",
+    "UnitsSold": 5484,
+    "PricePerUnit": 2730.797471,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-07-30",
+    "Product": "Pc",
+    "UnitsSold": 82736,
+    "PricePerUnit": 125.306227,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-08-06",
+    "Product": "Health",
+    "UnitsSold": 868,
+    "PricePerUnit": 181.250384,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-08-06",
+    "Product": "Life",
+    "UnitsSold": 6832,
+    "PricePerUnit": 2412.299375,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-08-06",
+    "Product": "Pc",
+    "UnitsSold": 173808,
+    "PricePerUnit": 125.5625134,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-08-13",
+    "Product": "Health",
+    "UnitsSold": 140,
+    "PricePerUnit": 115.2095238,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-08-13",
+    "Product": "Life",
+    "UnitsSold": 2380,
+    "PricePerUnit": 2481.731653,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-08-13",
+    "Product": "Pc",
+    "UnitsSold": 68160,
+    "PricePerUnit": 120.5880086,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-08-20",
+    "Product": "Health",
+    "UnitsSold": 244,
+    "PricePerUnit": 139.7540984,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-08-20",
+    "Product": "Life",
+    "UnitsSold": 2028,
+    "PricePerUnit": 1470.47666,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-08-20",
+    "Product": "Pc",
+    "UnitsSold": 52996,
+    "PricePerUnit": 108.4889426,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-08-27",
+    "Product": "Health",
+    "UnitsSold": 272,
+    "PricePerUnit": 108.5490196,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-08-27",
+    "Product": "Life",
+    "UnitsSold": 1884,
+    "PricePerUnit": 1658.278839,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-08-27",
+    "Product": "Pc",
+    "UnitsSold": 54400,
+    "PricePerUnit": 107.0335049,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-09-03",
+    "Product": "Health",
+    "UnitsSold": 272,
+    "PricePerUnit": 213.0441176,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-09-03",
+    "Product": "Life",
+    "UnitsSold": 2764,
+    "PricePerUnit": 1736.60878,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-09-03",
+    "Product": "Pc",
+    "UnitsSold": 61700,
+    "PricePerUnit": 124.7158725,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-09-10",
+    "Product": "Health",
+    "UnitsSold": 508,
+    "PricePerUnit": 181.3648294,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-09-10",
+    "Product": "Life",
+    "UnitsSold": 4332,
+    "PricePerUnit": 1024.834411,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-09-10",
+    "Product": "Pc",
+    "UnitsSold": 141152,
+    "PricePerUnit": 136.2340645,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-09-17",
+    "Product": "Health",
+    "UnitsSold": 808,
+    "PricePerUnit": 110.80033,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-09-17",
+    "Product": "Life",
+    "UnitsSold": 3116,
+    "PricePerUnit": 2137.404365,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-09-17",
+    "Product": "Pc",
+    "UnitsSold": 83432,
+    "PricePerUnit": 125.924026,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-09-24",
+    "Product": "Health",
+    "UnitsSold": 896,
+    "PricePerUnit": 101.3779762,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-09-24",
+    "Product": "Life",
+    "UnitsSold": 4080,
+    "PricePerUnit": 1513.568627,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-09-24",
+    "Product": "Pc",
+    "UnitsSold": 79180,
+    "PricePerUnit": 123.6989812,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-10-01",
+    "Product": "Health",
+    "UnitsSold": 752,
+    "PricePerUnit": 123.1719858,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-10-01",
+    "Product": "Life",
+    "UnitsSold": 4488,
+    "PricePerUnit": 1304.780452,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-10-01",
+    "Product": "Pc",
+    "UnitsSold": 75928,
+    "PricePerUnit": 111.2157658,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-10-08",
+    "Product": "Health",
+    "UnitsSold": 41536,
+    "PricePerUnit": 768.348831,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-10-08",
+    "Product": "Life",
+    "UnitsSold": 7144,
+    "PricePerUnit": 1425.481896,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-10-08",
+    "Product": "Pc",
+    "UnitsSold": 166580,
+    "PricePerUnit": 132.0481771,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-10-15",
+    "Product": "Health",
+    "UnitsSold": 596,
+    "PricePerUnit": 126.6689038,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-10-15",
+    "Product": "Life",
+    "UnitsSold": 4672,
+    "PricePerUnit": 1754.689498,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-10-15",
+    "Product": "Pc",
+    "UnitsSold": 83472,
+    "PricePerUnit": 140.6572903,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-10-22",
+    "Product": "Health",
+    "UnitsSold": 784,
+    "PricePerUnit": 115.7482993,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-10-22",
+    "Product": "Life",
+    "UnitsSold": 7196,
+    "PricePerUnit": 1528.060775,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-10-22",
+    "Product": "Pc",
+    "UnitsSold": 88264,
+    "PricePerUnit": 127.1036285,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-10-29",
+    "Product": "Health",
+    "UnitsSold": 788,
+    "PricePerUnit": 118.4856176,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-10-29",
+    "Product": "Life",
+    "UnitsSold": 6580,
+    "PricePerUnit": 2302.440324,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-10-29",
+    "Product": "Pc",
+    "UnitsSold": 78896,
+    "PricePerUnit": 120.1009261,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-11-05",
+    "Product": "Health",
+    "UnitsSold": 760,
+    "PricePerUnit": 158.2666667,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-11-05",
+    "Product": "Life",
+    "UnitsSold": 8832,
+    "PricePerUnit": 1764.841636,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-11-05",
+    "Product": "Pc",
+    "UnitsSold": 155120,
+    "PricePerUnit": 160.4146983,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-11-12",
+    "Product": "Health",
+    "UnitsSold": 516,
+    "PricePerUnit": 167.9767442,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-11-12",
+    "Product": "Life",
+    "UnitsSold": 5072,
+    "PricePerUnit": 1296.649317,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-11-12",
+    "Product": "Pc",
+    "UnitsSold": 91228,
+    "PricePerUnit": 92.73196826,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-11-19",
+    "Product": "Health",
+    "UnitsSold": 812,
+    "PricePerUnit": 114.9605911,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-11-19",
+    "Product": "Life",
+    "UnitsSold": 7576,
+    "PricePerUnit": 1893.969025,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-11-19",
+    "Product": "Pc",
+    "UnitsSold": 86576,
+    "PricePerUnit": 117.8620865,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-11-26",
+    "Product": "Health",
+    "UnitsSold": 728,
+    "PricePerUnit": 123.0879121,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-11-26",
+    "Product": "Life",
+    "UnitsSold": 6228,
+    "PricePerUnit": 1890.158424,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-11-26",
+    "Product": "Pc",
+    "UnitsSold": 65556,
+    "PricePerUnit": 147.1149552,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-12-03",
+    "Product": "Health",
+    "UnitsSold": 616,
+    "PricePerUnit": 119.4242424,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-12-03",
+    "Product": "Life",
+    "UnitsSold": 8552,
+    "PricePerUnit": 1526.311773,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-12-03",
+    "Product": "Pc",
+    "UnitsSold": 69136,
+    "PricePerUnit": 67.7056237,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-12-10",
+    "Product": "Health",
+    "UnitsSold": 408,
+    "PricePerUnit": 353.127451,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-12-10",
+    "Product": "Life",
+    "UnitsSold": 10876,
+    "PricePerUnit": 1162.465122,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-12-10",
+    "Product": "Pc",
+    "UnitsSold": 165848,
+    "PricePerUnit": 159.8732896,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-12-17",
+    "Product": "Health",
+    "UnitsSold": 776,
+    "PricePerUnit": 118.3298969,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-12-17",
+    "Product": "Life",
+    "UnitsSold": 9688,
+    "PricePerUnit": 1288.548032,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-12-17",
+    "Product": "Pc",
+    "UnitsSold": 96744,
+    "PricePerUnit": 147.7097632,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-12-24",
+    "Product": "Health",
+    "UnitsSold": 396,
+    "PricePerUnit": 141.4814815,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-12-24",
+    "Product": "Life",
+    "UnitsSold": 13092,
+    "PricePerUnit": 1421.653733,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-12-24",
+    "Product": "Pc",
+    "UnitsSold": 92232,
+    "PricePerUnit": 132.369821,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-12-31",
+    "Product": "Health",
+    "UnitsSold": 264,
+    "PricePerUnit": 122.2424242,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-12-31",
+    "Product": "Life",
+    "UnitsSold": 15044,
+    "PricePerUnit": 1489.536116,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2018-12-31",
+    "Product": "Pc",
+    "UnitsSold": 70544,
+    "PricePerUnit": 203.3607772,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-01-07",
+    "Product": "Health",
+    "UnitsSold": 756,
+    "PricePerUnit": 248.0405644,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-01-07",
+    "Product": "Life",
+    "UnitsSold": 10104,
+    "PricePerUnit": 1123.929269,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-01-07",
+    "Product": "Pc",
+    "UnitsSold": 85392,
+    "PricePerUnit": 162.2494628,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-01-14",
+    "Product": "Health",
+    "UnitsSold": 716,
+    "PricePerUnit": 144.4841713,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-01-14",
+    "Product": "Life",
+    "UnitsSold": 3600,
+    "PricePerUnit": 1125.773333,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-01-14",
+    "Product": "Pc",
+    "UnitsSold": 100240,
+    "PricePerUnit": 121.1381484,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-01-21",
+    "Product": "Health",
+    "UnitsSold": 1432,
+    "PricePerUnit": 122.1368715,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-01-21",
+    "Product": "Life",
+    "UnitsSold": 4320,
+    "PricePerUnit": 806.1061728,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-01-21",
+    "Product": "Pc",
+    "UnitsSold": 101608,
+    "PricePerUnit": 135.9210692,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-01-28",
+    "Product": "Health",
+    "UnitsSold": 1952,
+    "PricePerUnit": 114.5321038,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-01-28",
+    "Product": "Life",
+    "UnitsSold": 3996,
+    "PricePerUnit": 2556.88355,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-01-28",
+    "Product": "Pc",
+    "UnitsSold": 86996,
+    "PricePerUnit": 126.9321042,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-02-04",
+    "Product": "Health",
+    "UnitsSold": 2500,
+    "PricePerUnit": 127.9781333,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-02-04",
+    "Product": "Life",
+    "UnitsSold": 9876,
+    "PricePerUnit": 536.7442959,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-02-04",
+    "Product": "Pc",
+    "UnitsSold": 182684,
+    "PricePerUnit": 130.4845891,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-02-11",
+    "Product": "Health",
+    "UnitsSold": 1632,
+    "PricePerUnit": 132.8913399,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-02-11",
+    "Product": "Life",
+    "UnitsSold": 5812,
+    "PricePerUnit": 932.8531773,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-02-11",
+    "Product": "Pc",
+    "UnitsSold": 109492,
+    "PricePerUnit": 117.5374883,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-02-18",
+    "Product": "Health",
+    "UnitsSold": 1760,
+    "PricePerUnit": 115.2598485,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-02-18",
+    "Product": "Life",
+    "UnitsSold": 6208,
+    "PricePerUnit": 916.4209622,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-02-18",
+    "Product": "Pc",
+    "UnitsSold": 101496,
+    "PricePerUnit": 117.0460445,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-02-25",
+    "Product": "Health",
+    "UnitsSold": 1236,
+    "PricePerUnit": 106.8187702,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-02-25",
+    "Product": "Life",
+    "UnitsSold": 8068,
+    "PricePerUnit": 1362.153694,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-02-25",
+    "Product": "Pc",
+    "UnitsSold": 88904,
+    "PricePerUnit": 128.1712709,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-03-04",
+    "Product": "Health",
+    "UnitsSold": 1332,
+    "PricePerUnit": 140.2452452,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-03-04",
+    "Product": "Life",
+    "UnitsSold": 9060,
+    "PricePerUnit": 629.2011773,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-03-04",
+    "Product": "Pc",
+    "UnitsSold": 175716,
+    "PricePerUnit": 131.1592949,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-03-11",
+    "Product": "Health",
+    "UnitsSold": 1268,
+    "PricePerUnit": 143.5825447,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-03-11",
+    "Product": "Life",
+    "UnitsSold": 7456,
+    "PricePerUnit": 1006.403255,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-03-11",
+    "Product": "Pc",
+    "UnitsSold": 101500,
+    "PricePerUnit": 122.7484795,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-03-18",
+    "Product": "Health",
+    "UnitsSold": 1292,
+    "PricePerUnit": 129.8441692,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-03-18",
+    "Product": "Life",
+    "UnitsSold": 5784,
+    "PricePerUnit": 1699.993776,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-03-18",
+    "Product": "Pc",
+    "UnitsSold": 91952,
+    "PricePerUnit": 129.0631924,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-03-25",
+    "Product": "Health",
+    "UnitsSold": 1024,
+    "PricePerUnit": 126.3997396,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-03-25",
+    "Product": "Life",
+    "UnitsSold": 4688,
+    "PricePerUnit": 1588.079067,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-03-25",
+    "Product": "Pc",
+    "UnitsSold": 70216,
+    "PricePerUnit": 116.7091451,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-04-01",
+    "Product": "Health",
+    "UnitsSold": 956,
+    "PricePerUnit": 121.2050209,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-04-01",
+    "Product": "Life",
+    "UnitsSold": 6164,
+    "PricePerUnit": 1617.815271,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-04-01",
+    "Product": "Pc",
+    "UnitsSold": 86548,
+    "PricePerUnit": 103.5520482,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-04-08",
+    "Product": "Health",
+    "UnitsSold": 824,
+    "PricePerUnit": 179.6375405,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-04-08",
+    "Product": "Life",
+    "UnitsSold": 7316,
+    "PricePerUnit": 1151.440313,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-04-08",
+    "Product": "Pc",
+    "UnitsSold": 166652,
+    "PricePerUnit": 152.5491443,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-04-15",
+    "Product": "Health",
+    "UnitsSold": 568,
+    "PricePerUnit": 137.4037559,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-04-15",
+    "Product": "Life",
+    "UnitsSold": 5748,
+    "PricePerUnit": 2392.829274,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-04-15",
+    "Product": "Pc",
+    "UnitsSold": 87752,
+    "PricePerUnit": 122.8984866,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-04-22",
+    "Product": "Health",
+    "UnitsSold": 240,
+    "PricePerUnit": 102.5166667,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-04-22",
+    "Product": "Life",
+    "UnitsSold": 3752,
+    "PricePerUnit": 3159.944208,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-04-22",
+    "Product": "Pc",
+    "UnitsSold": 55920,
+    "PricePerUnit": 103.2137101,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-04-29",
+    "Product": "Health",
+    "UnitsSold": 360,
+    "PricePerUnit": 122.9703704,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-04-29",
+    "Product": "Life",
+    "UnitsSold": 6176,
+    "PricePerUnit": 2513.740501,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-04-29",
+    "Product": "Pc",
+    "UnitsSold": 54012,
+    "PricePerUnit": 116.8452936,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-05-06",
+    "Product": "Health",
+    "UnitsSold": 212,
+    "PricePerUnit": 251.9245283,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-05-06",
+    "Product": "Life",
+    "UnitsSold": 8844,
+    "PricePerUnit": 2144.55842,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-05-06",
+    "Product": "Pc",
+    "UnitsSold": 126108,
+    "PricePerUnit": 143.7615906,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-05-13",
+    "Product": "Health",
+    "UnitsSold": 220,
+    "PricePerUnit": 126.2363636,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-05-13",
+    "Product": "Life",
+    "UnitsSold": 4144,
+    "PricePerUnit": 2225.406049,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-05-13",
+    "Product": "Pc",
+    "UnitsSold": 76708,
+    "PricePerUnit": 119.7717405,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-05-20",
+    "Product": "Health",
+    "UnitsSold": 344,
+    "PricePerUnit": 147.624031,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-05-20",
+    "Product": "Life",
+    "UnitsSold": 5120,
+    "PricePerUnit": 1814.132031,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-05-20",
+    "Product": "Pc",
+    "UnitsSold": 75408,
+    "PricePerUnit": 113.387828,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-05-27",
+    "Product": "Health",
+    "UnitsSold": 324,
+    "PricePerUnit": 138.2263374,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-05-27",
+    "Product": "Life",
+    "UnitsSold": 5300,
+    "PricePerUnit": 2392.660629,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-05-27",
+    "Product": "Pc",
+    "UnitsSold": 69284,
+    "PricePerUnit": 177.5283375,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-06-03",
+    "Product": "Health",
+    "UnitsSold": 260,
+    "PricePerUnit": 170.0205128,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-06-03",
+    "Product": "Life",
+    "UnitsSold": 5812,
+    "PricePerUnit": 3034.785042,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-06-03",
+    "Product": "Pc",
+    "UnitsSold": 78476,
+    "PricePerUnit": 100.0031942,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-06-10",
+    "Product": "Health",
+    "UnitsSold": 400,
+    "PricePerUnit": 190.9166667,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-06-10",
+    "Product": "Life",
+    "UnitsSold": 8300,
+    "PricePerUnit": 1036.851727,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-06-10",
+    "Product": "Pc",
+    "UnitsSold": 151328,
+    "PricePerUnit": 134.2301931,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-06-17",
+    "Product": "Health",
+    "UnitsSold": 264,
+    "PricePerUnit": 198.0050505,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-06-17",
+    "Product": "Life",
+    "UnitsSold": 4780,
+    "PricePerUnit": 1891.038215,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-06-17",
+    "Product": "Pc",
+    "UnitsSold": 93220,
+    "PricePerUnit": 107.4840592,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-06-24",
+    "Product": "Health",
+    "UnitsSold": 256,
+    "PricePerUnit": 134.4739583,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-06-24",
+    "Product": "Life",
+    "UnitsSold": 5036,
+    "PricePerUnit": 1673.656606,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-06-24",
+    "Product": "Pc",
+    "UnitsSold": 97088,
+    "PricePerUnit": 128.2420622,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-07-01",
+    "Product": "Health",
+    "UnitsSold": 152,
+    "PricePerUnit": 170.4210526,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-07-01",
+    "Product": "Life",
+    "UnitsSold": 4992,
+    "PricePerUnit": 2223.028579,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-07-01",
+    "Product": "Pc",
+    "UnitsSold": 78464,
+    "PricePerUnit": 105.9971962,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-07-08",
+    "Product": "Health",
+    "UnitsSold": 100,
+    "PricePerUnit": 445.12,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-07-08",
+    "Product": "Life",
+    "UnitsSold": 7428,
+    "PricePerUnit": 1559.866092,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-07-08",
+    "Product": "Pc",
+    "UnitsSold": 166032,
+    "PricePerUnit": 154.4448379,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-07-15",
+    "Product": "Health",
+    "UnitsSold": 108,
+    "PricePerUnit": 241.0493827,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-07-15",
+    "Product": "Life",
+    "UnitsSold": 4324,
+    "PricePerUnit": 2723.719396,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-07-15",
+    "Product": "Pc",
+    "UnitsSold": 82892,
+    "PricePerUnit": 123.7045312,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-07-22",
+    "Product": "Health",
+    "UnitsSold": 108,
+    "PricePerUnit": 89.4691358,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-07-22",
+    "Product": "Life",
+    "UnitsSold": 4044,
+    "PricePerUnit": 2122.886911,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-07-22",
+    "Product": "Pc",
+    "UnitsSold": 65872,
+    "PricePerUnit": 132.3769533,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-07-29",
+    "Product": "Health",
+    "UnitsSold": 88,
+    "PricePerUnit": 210.4848485,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-07-29",
+    "Product": "Life",
+    "UnitsSold": 5888,
+    "PricePerUnit": 2415.443841,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-07-29",
+    "Product": "Pc",
+    "UnitsSold": 58724,
+    "PricePerUnit": 135.2394478,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-08-05",
+    "Product": "Health",
+    "UnitsSold": 20,
+    "PricePerUnit": 1551.733333,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-08-05",
+    "Product": "Life",
+    "UnitsSold": 6380,
+    "PricePerUnit": 1598.118704,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-08-05",
+    "Product": "Pc",
+    "UnitsSold": 113664,
+    "PricePerUnit": 149.5033666,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-08-12",
+    "Product": "Health",
+    "UnitsSold": 116,
+    "PricePerUnit": 236.9655172,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-08-12",
+    "Product": "Life",
+    "UnitsSold": 2644,
+    "PricePerUnit": 2775.485124,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-08-12",
+    "Product": "Pc",
+    "UnitsSold": 60484,
+    "PricePerUnit": 128.5150894,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-08-19",
+    "Product": "Health",
+    "UnitsSold": 100,
+    "PricePerUnit": 225.84,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-08-19",
+    "Product": "Life",
+    "UnitsSold": 2000,
+    "PricePerUnit": 1055.155333,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-08-19",
+    "Product": "Pc",
+    "UnitsSold": 35484,
+    "PricePerUnit": 118.8396272,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-08-26",
+    "Product": "Health",
+    "UnitsSold": 48,
+    "PricePerUnit": 176.4722222,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-08-26",
+    "Product": "Life",
+    "UnitsSold": 2156,
+    "PricePerUnit": 1671.68893,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-08-26",
+    "Product": "Pc",
+    "UnitsSold": 38604,
+    "PricePerUnit": 112.9752012,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-09-02",
+    "Product": "Health",
+    "UnitsSold": 48,
+    "PricePerUnit": 131.5,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-09-02",
+    "Product": "Life",
+    "UnitsSold": 2276,
+    "PricePerUnit": 2678.420621,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-09-02",
+    "Product": "Pc",
+    "UnitsSold": 45120,
+    "PricePerUnit": 143.5881797,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-09-09",
+    "Product": "Health",
+    "UnitsSold": 24784,
+    "PricePerUnit": 438.9805407,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-09-09",
+    "Product": "Life",
+    "UnitsSold": 4448,
+    "PricePerUnit": 734.3729017,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-09-09",
+    "Product": "Pc",
+    "UnitsSold": 90012,
+    "PricePerUnit": 183.1252129,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-09-16",
+    "Product": "Health",
+    "UnitsSold": 120,
+    "PricePerUnit": 175.7333333,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-09-16",
+    "Product": "Life",
+    "UnitsSold": 3076,
+    "PricePerUnit": 1134.707412,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-09-16",
+    "Product": "Pc",
+    "UnitsSold": 57972,
+    "PricePerUnit": 118.4504473,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-09-23",
+    "Product": "Health",
+    "UnitsSold": 112,
+    "PricePerUnit": 153.0595238,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-09-23",
+    "Product": "Life",
+    "UnitsSold": 3328,
+    "PricePerUnit": 1469.034054,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-09-23",
+    "Product": "Pc",
+    "UnitsSold": 57124,
+    "PricePerUnit": 141.3622295,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-09-30",
+    "Product": "Health",
+    "UnitsSold": 152,
+    "PricePerUnit": 182.6929825,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-09-30",
+    "Product": "Life",
+    "UnitsSold": 4124,
+    "PricePerUnit": 812.5654704,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-09-30",
+    "Product": "Pc",
+    "UnitsSold": 51672,
+    "PricePerUnit": 143.8485834,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-10-07",
+    "Product": "Health",
+    "UnitsSold": 31488,
+    "PricePerUnit": 1488.119562,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-10-07",
+    "Product": "Life",
+    "UnitsSold": 11304,
+    "PricePerUnit": 2832.39054,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-10-07",
+    "Product": "Pc",
+    "UnitsSold": 113140,
+    "PricePerUnit": 174.9263332,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-10-14",
+    "Product": "Health",
+    "UnitsSold": 88,
+    "PricePerUnit": 351.1969697,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-10-14",
+    "Product": "Life",
+    "UnitsSold": 4412,
+    "PricePerUnit": 2706.667271,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-10-14",
+    "Product": "Pc",
+    "UnitsSold": 53072,
+    "PricePerUnit": 166.9648277,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-10-21",
+    "Product": "Health",
+    "UnitsSold": 188,
+    "PricePerUnit": 171.1843972,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-10-21",
+    "Product": "Life",
+    "UnitsSold": 5240,
+    "PricePerUnit": 2399.982443,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-10-21",
+    "Product": "Pc",
+    "UnitsSold": 62008,
+    "PricePerUnit": 156.7566981,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-10-28",
+    "Product": "Health",
+    "UnitsSold": 64,
+    "PricePerUnit": 193.4791667,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-10-28",
+    "Product": "Life",
+    "UnitsSold": 5336,
+    "PricePerUnit": 2456.874813,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-10-28",
+    "Product": "Pc",
+    "UnitsSold": 54888,
+    "PricePerUnit": 112.5655152,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-11-04",
+    "Product": "Health",
+    "UnitsSold": 68,
+    "PricePerUnit": 317.2156863,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-11-04",
+    "Product": "Life",
+    "UnitsSold": 4360,
+    "PricePerUnit": 3303.611621,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-11-04",
+    "Product": "Pc",
+    "UnitsSold": 44328,
+    "PricePerUnit": 115.9746135,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-11-11",
+    "Product": "Health",
+    "UnitsSold": 26358,
+    "PricePerUnit": 884.0344376,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-11-11",
+    "Product": "Life",
+    "UnitsSold": 8388,
+    "PricePerUnit": 1652.094262,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-11-11",
+    "Product": "Pc",
+    "UnitsSold": 114420,
+    "PricePerUnit": 175.7712638,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-11-18",
+    "Product": "Health",
+    "UnitsSold": 204,
+    "PricePerUnit": 165.9738562,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-11-18",
+    "Product": "Life",
+    "UnitsSold": 5136,
+    "PricePerUnit": 2567.69055,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-11-18",
+    "Product": "Pc",
+    "UnitsSold": 42252,
+    "PricePerUnit": 203.5620247,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-11-25",
+    "Product": "Health",
+    "UnitsSold": 92,
+    "PricePerUnit": 178.8985507,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-11-25",
+    "Product": "Life",
+    "UnitsSold": 10344,
+    "PricePerUnit": 2119.694122,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-11-25",
+    "Product": "Pc",
+    "UnitsSold": 51496,
+    "PricePerUnit": 141.4174564,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-12-02",
+    "Product": "Health",
+    "UnitsSold": 84,
+    "PricePerUnit": 223.5238095,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-12-02",
+    "Product": "Life",
+    "UnitsSold": 7440,
+    "PricePerUnit": 4649.887097,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-12-02",
+    "Product": "Pc",
+    "UnitsSold": 36080,
+    "PricePerUnit": 199.534405,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-12-09",
+    "Product": "Health",
+    "UnitsSold": 22454,
+    "PricePerUnit": 798.433114,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-12-09",
+    "Product": "Life",
+    "UnitsSold": 8828,
+    "PricePerUnit": 1397.331823,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-12-09",
+    "Product": "Pc",
+    "UnitsSold": 107956,
+    "PricePerUnit": 216.5245717,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-12-16",
+    "Product": "Health",
+    "UnitsSold": 116,
+    "PricePerUnit": 232.8275862,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-12-16",
+    "Product": "Life",
+    "UnitsSold": 7516,
+    "PricePerUnit": 2410.619833,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-12-16",
+    "Product": "Pc",
+    "UnitsSold": 57188,
+    "PricePerUnit": 137.3581637,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-12-23",
+    "Product": "Health",
+    "UnitsSold": 116,
+    "PricePerUnit": 185.4827586,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-12-23",
+    "Product": "Life",
+    "UnitsSold": 11272,
+    "PricePerUnit": 2469.479773,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-12-23",
+    "Product": "Pc",
+    "UnitsSold": 69596,
+    "PricePerUnit": 165.0403855,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-12-30",
+    "Product": "Health",
+    "UnitsSold": 68,
+    "PricePerUnit": 290.7058824,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-12-30",
+    "Product": "Life",
+    "UnitsSold": 11140,
+    "PricePerUnit": 2409.665829,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2019-12-30",
+    "Product": "Pc",
+    "UnitsSold": 54600,
+    "PricePerUnit": 140.6074481,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-01-06",
+    "Product": "Health",
+    "UnitsSold": 440,
+    "PricePerUnit": 123.6969697,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-01-06",
+    "Product": "Life",
+    "UnitsSold": 13060,
+    "PricePerUnit": 1196.507912,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-01-06",
+    "Product": "Pc",
+    "UnitsSold": 61290,
+    "PricePerUnit": 152.7565729,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-01-13",
+    "Product": "Health",
+    "UnitsSold": 204,
+    "PricePerUnit": 194.9346405,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-01-13",
+    "Product": "Life",
+    "UnitsSold": 3520,
+    "PricePerUnit": 1238.822727,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-01-13",
+    "Product": "Pc",
+    "UnitsSold": 67980,
+    "PricePerUnit": 164.9056978,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-01-20",
+    "Product": "Health",
+    "UnitsSold": 156,
+    "PricePerUnit": 243.3675214,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-01-20",
+    "Product": "Life",
+    "UnitsSold": 4948,
+    "PricePerUnit": 1231.532741,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-01-20",
+    "Product": "Pc",
+    "UnitsSold": 77356,
+    "PricePerUnit": 158.3512074,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-01-27",
+    "Product": "Health",
+    "UnitsSold": 148,
+    "PricePerUnit": 326.6396396,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-01-27",
+    "Product": "Life",
+    "UnitsSold": 4596,
+    "PricePerUnit": 1688.094865,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-01-27",
+    "Product": "Pc",
+    "UnitsSold": 66960,
+    "PricePerUnit": 171.6499204,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-02-03",
+    "Product": "Health",
+    "UnitsSold": 136,
+    "PricePerUnit": 164.7254902,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-02-03",
+    "Product": "Life",
+    "UnitsSold": 6988,
+    "PricePerUnit": 2414.422057,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-02-03",
+    "Product": "Pc",
+    "UnitsSold": 64368,
+    "PricePerUnit": 133.1127475,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-02-10",
+    "Product": "Health",
+    "UnitsSold": 252,
+    "PricePerUnit": 193.015873,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-02-10",
+    "Product": "Life",
+    "UnitsSold": 7576,
+    "PricePerUnit": 1349.909891,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-02-10",
+    "Product": "Pc",
+    "UnitsSold": 143992,
+    "PricePerUnit": 152.489592,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-02-17",
+    "Product": "Health",
+    "UnitsSold": 140,
+    "PricePerUnit": 185.7904762,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-02-17",
+    "Product": "Life",
+    "UnitsSold": 5584,
+    "PricePerUnit": 2065.634193,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-02-17",
+    "Product": "Pc",
+    "UnitsSold": 69016,
+    "PricePerUnit": 141.0866659,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-02-24",
+    "Product": "Health",
+    "UnitsSold": 144,
+    "PricePerUnit": 177.3333333,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-02-24",
+    "Product": "Life",
+    "UnitsSold": 5308,
+    "PricePerUnit": 2251.186637,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-02-24",
+    "Product": "Pc",
+    "UnitsSold": 64872,
+    "PricePerUnit": 148.1168249,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-03-02",
+    "Product": "Health",
+    "UnitsSold": 136,
+    "PricePerUnit": 196.7254902,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-03-02",
+    "Product": "Life",
+    "UnitsSold": 4740,
+    "PricePerUnit": 2962.066667,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-03-02",
+    "Product": "Pc",
+    "UnitsSold": 63028,
+    "PricePerUnit": 114.7967041,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-03-09",
+    "Product": "Health",
+    "UnitsSold": 220,
+    "PricePerUnit": 312.5454545,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-03-09",
+    "Product": "Life",
+    "UnitsSold": 11132,
+    "PricePerUnit": 1676.059049,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-03-09",
+    "Product": "Pc",
+    "UnitsSold": 155188,
+    "PricePerUnit": 184.2459297,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-03-16",
+    "Product": "Health",
+    "UnitsSold": 184,
+    "PricePerUnit": 214.0724638,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-03-16",
+    "Product": "Life",
+    "UnitsSold": 5560,
+    "PricePerUnit": 1312.203837,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-03-16",
+    "Product": "Pc",
+    "UnitsSold": 67532,
+    "PricePerUnit": 218.5975636,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-03-23",
+    "Product": "Health",
+    "UnitsSold": 136,
+    "PricePerUnit": 201.745098,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-03-23",
+    "Product": "Life",
+    "UnitsSold": 2780,
+    "PricePerUnit": 1165.439329,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-03-23",
+    "Product": "Pc",
+    "UnitsSold": 26488,
+    "PricePerUnit": 144.038206,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-03-30",
+    "Product": "Health",
+    "UnitsSold": 56,
+    "PricePerUnit": 205.4285714,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-03-30",
+    "Product": "Life",
+    "UnitsSold": 1928,
+    "PricePerUnit": 172.7122932,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-03-30",
+    "Product": "Pc",
+    "UnitsSold": 17064,
+    "PricePerUnit": 139.996015,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-04-06",
+    "Product": "Health",
+    "UnitsSold": 112,
+    "PricePerUnit": 377.8690476,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-04-06",
+    "Product": "Life",
+    "UnitsSold": 6500,
+    "PricePerUnit": 589.3085128,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-04-06",
+    "Product": "Pc",
+    "UnitsSold": 82224,
+    "PricePerUnit": 178.03621,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-04-13",
+    "Product": "Health",
+    "UnitsSold": 60,
+    "PricePerUnit": 262.4222222,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-04-13",
+    "Product": "Life",
+    "UnitsSold": 1852,
+    "PricePerUnit": 2337.489561,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-04-13",
+    "Product": "Pc",
+    "UnitsSold": 17736,
+    "PricePerUnit": 270.9612088,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-04-20",
+    "Product": "Health",
+    "UnitsSold": 44,
+    "PricePerUnit": 258.030303,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-04-20",
+    "Product": "Life",
+    "UnitsSold": 2316,
+    "PricePerUnit": 1542.034542,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-04-20",
+    "Product": "Pc",
+    "UnitsSold": 30956,
+    "PricePerUnit": 111.1161649,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-04-27",
+    "Product": "Health",
+    "UnitsSold": 36,
+    "PricePerUnit": 233.2222222,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-04-27",
+    "Product": "Life",
+    "UnitsSold": 2380,
+    "PricePerUnit": 3481.843137,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-04-27",
+    "Product": "Pc",
+    "UnitsSold": 32788,
+    "PricePerUnit": 142.4886341,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-05-04",
+    "Product": "Health",
+    "UnitsSold": 48,
+    "PricePerUnit": 209.4444444,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-05-04",
+    "Product": "Life",
+    "UnitsSold": 2148,
+    "PricePerUnit": 3161.644941,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-05-04",
+    "Product": "Pc",
+    "UnitsSold": 18852,
+    "PricePerUnit": 84.13720914,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-05-11",
+    "Product": "Health",
+    "UnitsSold": 120,
+    "PricePerUnit": 292.8444444,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-05-11",
+    "Product": "Life",
+    "UnitsSold": 6564,
+    "PricePerUnit": 696.3221613,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-05-11",
+    "Product": "Pc",
+    "UnitsSold": 122236,
+    "PricePerUnit": 155.6158578,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-05-18",
+    "Product": "Health",
+    "UnitsSold": 68,
+    "PricePerUnit": 113.5294118,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-05-18",
+    "Product": "Life",
+    "UnitsSold": 3372,
+    "PricePerUnit": 1215.345987,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-05-18",
+    "Product": "Pc",
+    "UnitsSold": 56124,
+    "PricePerUnit": 161.8929513,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-05-25",
+    "Product": "Health",
+    "UnitsSold": 68,
+    "PricePerUnit": 218.1568627,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-05-25",
+    "Product": "Life",
+    "UnitsSold": 3304,
+    "PricePerUnit": 3060.734867,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-05-25",
+    "Product": "Pc",
+    "UnitsSold": 60036,
+    "PricePerUnit": 113.0276501,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-06-01",
+    "Product": "Health",
+    "UnitsSold": 56,
+    "PricePerUnit": 225.0952381,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-06-01",
+    "Product": "Life",
+    "UnitsSold": 3164,
+    "PricePerUnit": 2239.609777,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-06-01",
+    "Product": "Pc",
+    "UnitsSold": 60460,
+    "PricePerUnit": 113.1914434,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-06-08",
+    "Product": "Health",
+    "UnitsSold": 112,
+    "PricePerUnit": 359,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-06-08",
+    "Product": "Life",
+    "UnitsSold": 8840,
+    "PricePerUnit": 1041.356109,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-06-08",
+    "Product": "Pc",
+    "UnitsSold": 174372,
+    "PricePerUnit": 129.7897981,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-06-15",
+    "Product": "Health",
+    "UnitsSold": 108,
+    "PricePerUnit": 168.7283951,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-06-15",
+    "Product": "Life",
+    "UnitsSold": 4964,
+    "PricePerUnit": 2001.014773,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-06-15",
+    "Product": "Pc",
+    "UnitsSold": 93820,
+    "PricePerUnit": 131.8064521,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-06-22",
+    "Product": "Health",
+    "UnitsSold": 100,
+    "PricePerUnit": 139.5066667,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-06-22",
+    "Product": "Life",
+    "UnitsSold": 4928,
+    "PricePerUnit": 1551.465097,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-06-22",
+    "Product": "Pc",
+    "UnitsSold": 85604,
+    "PricePerUnit": 89.42610158,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-06-29",
+    "Product": "Health",
+    "UnitsSold": 72,
+    "PricePerUnit": 206.1296296,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-06-29",
+    "Product": "Life",
+    "UnitsSold": 4180,
+    "PricePerUnit": 3622.291228,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-06-29",
+    "Product": "Pc",
+    "UnitsSold": 81504,
+    "PricePerUnit": 93.98215221,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-07-06",
+    "Product": "Health",
+    "UnitsSold": 164,
+    "PricePerUnit": 213.8292683,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-07-06",
+    "Product": "Life",
+    "UnitsSold": 10100,
+    "PricePerUnit": 992.8253465,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-07-06",
+    "Product": "Pc",
+    "UnitsSold": 202140,
+    "PricePerUnit": 147.1378187,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-07-13",
+    "Product": "Health",
+    "UnitsSold": 152,
+    "PricePerUnit": 264.9473684,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-07-13",
+    "Product": "Life",
+    "UnitsSold": 4264,
+    "PricePerUnit": 885.8749218,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-07-13",
+    "Product": "Pc",
+    "UnitsSold": 102952,
+    "PricePerUnit": 121.9979537,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-07-20",
+    "Product": "Health",
+    "UnitsSold": 128,
+    "PricePerUnit": 253.1145833,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-07-20",
+    "Product": "Life",
+    "UnitsSold": 4196,
+    "PricePerUnit": 802.6304417,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-07-20",
+    "Product": "Pc",
+    "UnitsSold": 83628,
+    "PricePerUnit": 109.9867668,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-07-27",
+    "Product": "Health",
+    "UnitsSold": 92,
+    "PricePerUnit": 98.94202899,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-07-27",
+    "Product": "Life",
+    "UnitsSold": 3716,
+    "PricePerUnit": 1449.384284,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-07-27",
+    "Product": "Pc",
+    "UnitsSold": 78688,
+    "PricePerUnit": 123.4492172,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-08-03",
+    "Product": "Health",
+    "UnitsSold": 76,
+    "PricePerUnit": 141.4561404,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-08-03",
+    "Product": "Life",
+    "UnitsSold": 5104,
+    "PricePerUnit": 2286.06348,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-08-03",
+    "Product": "Pc",
+    "UnitsSold": 65668,
+    "PricePerUnit": 108.5426692,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-08-10",
+    "Product": "Health",
+    "UnitsSold": 156,
+    "PricePerUnit": 270.8034188,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-08-10",
+    "Product": "Life",
+    "UnitsSold": 7340,
+    "PricePerUnit": 593.6879201,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-08-10",
+    "Product": "Pc",
+    "UnitsSold": 150172,
+    "PricePerUnit": 141.4461196,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-08-17",
+    "Product": "Health",
+    "UnitsSold": 52,
+    "PricePerUnit": 118.7692308,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-08-17",
+    "Product": "Life",
+    "UnitsSold": 2912,
+    "PricePerUnit": 1011.289377,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-08-17",
+    "Product": "Pc",
+    "UnitsSold": 60136,
+    "PricePerUnit": 128.3812691,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-08-24",
+    "Product": "Health",
+    "UnitsSold": 92,
+    "PricePerUnit": 193.6521739,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-08-24",
+    "Product": "Life",
+    "UnitsSold": 2364,
+    "PricePerUnit": 485.1359278,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-08-24",
+    "Product": "Pc",
+    "UnitsSold": 49588,
+    "PricePerUnit": 124.9690248,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-08-31",
+    "Product": "Health",
+    "UnitsSold": 40,
+    "PricePerUnit": 281.1,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-08-31",
+    "Product": "Life",
+    "UnitsSold": 2588,
+    "PricePerUnit": 804.1226172,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-08-31",
+    "Product": "Pc",
+    "UnitsSold": 48228,
+    "PricePerUnit": 143.4340217,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-09-07",
+    "Product": "Health",
+    "UnitsSold": 156,
+    "PricePerUnit": 274.991453,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-09-07",
+    "Product": "Life",
+    "UnitsSold": 5872,
+    "PricePerUnit": 495.4034968,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-09-07",
+    "Product": "Pc",
+    "UnitsSold": 119412,
+    "PricePerUnit": 142.8171596,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-09-14",
+    "Product": "Health",
+    "UnitsSold": 104,
+    "PricePerUnit": 184.5897436,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-09-14",
+    "Product": "Life",
+    "UnitsSold": 3008,
+    "PricePerUnit": 1053.707004,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-09-14",
+    "Product": "Pc",
+    "UnitsSold": 62872,
+    "PricePerUnit": 123.6954235,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-09-21",
+    "Product": "Health",
+    "UnitsSold": 184,
+    "PricePerUnit": 180.6449275,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-09-21",
+    "Product": "Life",
+    "UnitsSold": 4180,
+    "PricePerUnit": 827.6513557,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-09-21",
+    "Product": "Pc",
+    "UnitsSold": 63960,
+    "PricePerUnit": 145.9253075,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-09-28",
+    "Product": "Health",
+    "UnitsSold": 104,
+    "PricePerUnit": 175.9487179,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-09-28",
+    "Product": "Life",
+    "UnitsSold": 4472,
+    "PricePerUnit": 1332.412045,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-09-28",
+    "Product": "Pc",
+    "UnitsSold": 59732,
+    "PricePerUnit": 110.77687,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-10-05",
+    "Product": "Health",
+    "UnitsSold": 204,
+    "PricePerUnit": 193.1633987,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-10-05",
+    "Product": "Life",
+    "UnitsSold": 6964,
+    "PricePerUnit": 721.9657285,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-10-05",
+    "Product": "Pc",
+    "UnitsSold": 123772,
+    "PricePerUnit": 157.0167405,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-10-12",
+    "Product": "Health",
+    "UnitsSold": 180,
+    "PricePerUnit": 188.3925926,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-10-12",
+    "Product": "Life",
+    "UnitsSold": 4088,
+    "PricePerUnit": 1035.139269,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-10-12",
+    "Product": "Pc",
+    "UnitsSold": 77160,
+    "PricePerUnit": 136.2815103,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-10-19",
+    "Product": "Health",
+    "UnitsSold": 140,
+    "PricePerUnit": 296.6,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-10-19",
+    "Product": "Life",
+    "UnitsSold": 5532,
+    "PricePerUnit": 906.6052061,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-10-19",
+    "Product": "Pc",
+    "UnitsSold": 55228,
+    "PricePerUnit": 131.6796311,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-10-26",
+    "Product": "Health",
+    "UnitsSold": 116,
+    "PricePerUnit": 211.9425287,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-10-26",
+    "Product": "Life",
+    "UnitsSold": 4136,
+    "PricePerUnit": 1250.832689,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-10-26",
+    "Product": "Pc",
+    "UnitsSold": 60268,
+    "PricePerUnit": 113.4831088,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-11-02",
+    "Product": "Health",
+    "UnitsSold": 120,
+    "PricePerUnit": 244.0111111,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-11-02",
+    "Product": "Life",
+    "UnitsSold": 3936,
+    "PricePerUnit": 981.473916,
+    "Grouping": "all"
+  },
+  {
+    "Country": "UKR",
+    "Region": "all",
+    "Date": "2020-11-02",
+    "Product": "Pc",
+    "UnitsSold": 57008,
+    "PricePerUnit": 109.436851,
+    "Grouping": "all"
+  }
+]

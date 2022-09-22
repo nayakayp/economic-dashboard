@@ -6,16 +6,25 @@
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "csvtojson": "^2.0.10",
+    "papaparse": "^5.3.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
+    "react-table": "^7.8.0",
+    "recharts": "^2.1.14",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "lint": "eslint --ignore-path .gitignore ./src",
+    "prettier": "prettier --ignore-path .gitignore --write \"**/*.+(js|jsx|json)\"",
+    "format": "npm run prettier -- --write",
+    "check-format": "npm run prettier -- --list-different",
+    "validate": "npm run check-format && npm run lint && npm run build"
   },
   "eslintConfig": {
     "extends": [
@@ -34,5 +43,14 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.11",
+    "eslint": "^8.23.1",
+    "eslint-config-prettier": "^8.5.0",
+    "husky": "^8.0.1",
+    "postcss": "^8.4.16",
+    "prettier": "^2.7.1",
+    "tailwindcss": "^3.1.8"
   }
 }

@@ -1,25 +1,37 @@
-import logo from './logo.svg';
-import './App.css';
+// import papaparse from 'papaparse';
+import React from 'react'
+import Branding from './components/Data/Branding'
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Branding />
+
+      {/* // const Papa = papaparse;
+  // const handleFileSubmit = (e) => {
+  //   e.preventDefault();
+  //   const files = e.target[0].files;
+  //   if(files){
+  //     const result = Papa.parse(files[0],{
+  //       complete: (result, file) => {
+  //         console.log(file)
+  //         console.log(result);
+  //       },
+  //     })
+
+  //   }
+  // } */}
+      {/* <form onSubmit={e => handleFileSubmit(e)}>
+        <div>
+          <label>Choose file to upload</label>
+          <input type="file" accept=".csv,.xlsx,.xls" />
+        </div>
+        <div>
+          <button>Submit</button>
+        </div>
+      </form> */}
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
