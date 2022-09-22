@@ -2,7 +2,7 @@ import React from 'react'
 
 const SelectFilter = ({data, column}) => {
   const {filterValue, setFilter} = column
-  let selectOption = []
+  let selectOption = ['test']
   data.forEach(d => {
     if (selectOption.every(option => option !== d.Brand)) {
       selectOption.push(d.Brand)
