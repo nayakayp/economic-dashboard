@@ -1,3 +1,17 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.scroll::-webkit-scrollbar {
+  width: 6px;
+}
+
+.scroll::-webkit-scrollbar-track {
+  /* background: #4f46e5; */
+}
+
+.scroll::-webkit-scrollbar-thumb {
+  background-color: #4f46e5; /* color of the scroll thumb */
+  border-radius: 5px; /* roundness of the scroll thumb */
+  border: 1px solid #4f46e5; /* creates padding around scroll thumb */
+}

@@ -8,7 +8,7 @@ const ColumnFilter = ({column}) => {
       <input
         value={filterValue || ''}
         onChange={e => setFilter(e.target.value)}
-        style={{border: '1px solid red', width: '80%'}}
+        className="w-full mt-4 bg-white rounded-4 border border-slate-600 rounded"
       />
     </span>
   )

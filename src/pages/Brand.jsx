@@ -1,15 +1,17 @@
 import React, {useMemo, useState} from 'react'
-import ColumnFilter from '../ColumnFilter'
+import ColumnFilter from '../components/ColumnFilter'
+import Layout from '../components/Layout'
 
-import Chart from '../Chart'
-import PieChartComp from '../PieChart'
-import Table from '../Table'
+import Chart from '../components/Chart'
+import PieChartComp from '../components/PieChart'
+import Table from '../components/Table'
 
-import BrandData from '../../assets/Brand.json'
+import BrandData from '../assets/Brand.json'
 
 const Branding = () => {
   let groupTotalValues = {}
   let metricGrouping = {}
+  const [mainColumnActive, setMainColumnActive] = useState(null)
   const [pieDatasets, setPieDatasets] = useState([])
   const _groupBy = (objectArray, property) => {
     return objectArray.reduce((acc, obj) => {
@@ -70,6 +72,7 @@ const Branding = () => {
   )
 
   const handleChangeEvent = (mainColumn, optionColumn) => {
+    setMainColumnActive(mainColumn)
     let activeData = []
     if (mainColumn !== 'none') {
       groupTotalValues[mainColumn].map(data => {
@@ -82,9 +85,14 @@ const Branding = () => {
   }
 
   return (
-    <div className="">
-      <div className="grid grid-cols-2 items-start">
+    <Layout title="Value of Brand by Metric">
+      <div className="grid grid-cols-2 items-start mb-8">
         <Chart
+          chartTitle={
+            mainColumnActive !== 'none' && (
+              <>Value of a {mainColumnActive} by Date With Metrics</>
+            )
+          }
           dataset={BrandData}
           yAxisKey="Value"
           xAxisKey="Date"
@@ -93,6 +101,16 @@ const Branding = () => {
           onChangeEvent={handleChangeEvent}
         />
         <div className="">
+          <div className="sm:flex sm:items-center">
+            <div className="sm:flex-auto">
+              {mainColumnActive !== 'none' && (
+                <h1 className="text-xl font-semibold text-gray-900">
+                  (Total Alltime {mainColumnActive} Values by Metrics )
+                </h1>
+              )}
+              <p className="mt-2 text-sm text-gray-700"></p>
+            </div>
+          </div>
           {pieDatasets.length > 0 && (
             <PieChartComp
               datasets={pieDatasets}
@@ -102,8 +120,12 @@ const Branding = () => {
           )}
         </div>
       </div>
-      <Table dataset={BrandData} columns={columns} />
-    </div>
+      <Table
+        tableTitle="Table of Brand"
+        dataset={BrandData}
+        columns={columns}
+      />
+    </Layout>
   )
 }
 

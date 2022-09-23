@@ -1,15 +1,17 @@
 import React, {useMemo, useState} from 'react'
-import ColumnFilter from '../ColumnFilter'
+import ColumnFilter from '../components/ColumnFilter'
+import Layout from '../components/Layout'
 
-import Table from '../Table'
-import Chart from '../Chart'
-import PieChartComp from '../PieChart'
+import Table from '../components/Table'
+import Chart from '../components/Chart'
+import PieChartComp from '../components/PieChart'
 
-import MediaData from '../../assets/Media.json'
+import MediaData from '../assets/Media.json'
 
 const Media = () => {
   let groupTotalInvestments = {}
   let productGrouping = {}
+  const [mainColumnActive, setMainColumnActive] = useState(null)
   const [pieDatasets, setPieDatasets] = useState([])
   const _groupBy = (objectArray, property) => {
     return objectArray.reduce((acc, obj) => {
@@ -40,6 +42,7 @@ const Media = () => {
   }
 
   const handleChangeEvent = (mainColumn, optionColumn) => {
+    setMainColumnActive(mainColumn)
     let activeData = []
     if (mainColumn !== 'none') {
       groupTotalInvestments[mainColumn].map(data => {
@@ -82,10 +85,14 @@ const Media = () => {
     [],
   )
   return (
-    <div className="">
-      <Table dataset={MediaData} columns={columns} />
+    <Layout title="Investment in Product by Media">
       <div className="grid grid-cols-2 items-start">
         <Chart
+          chartTitle={
+            mainColumnActive !== 'none' && (
+              <>Investment of a {mainColumnActive} in Products by Date</>
+            )
+          }
           dataset={MediaData}
           yAxisKey="Investment"
           xAxisKey="Date"
@@ -94,6 +101,16 @@ const Media = () => {
           onChangeEvent={handleChangeEvent}
         />
         <div className="">
+          <div className="sm:flex sm:items-center">
+            <div className="sm:flex-auto">
+              {mainColumnActive !== 'none' && (
+                <h1 className="text-xl font-semibold text-gray-900">
+                  (Total Alltime {mainColumnActive} Investments in Products )
+                </h1>
+              )}
+              <p className="mt-2 text-sm text-gray-700"></p>
+            </div>
+          </div>
           {pieDatasets.length > 0 && (
             <PieChartComp
               datasets={pieDatasets}
@@ -103,7 +120,13 @@ const Media = () => {
           )}
         </div>
       </div>
-    </div>
+      <Table
+        dataset={MediaData}
+        columns={columns}
+        tableTitle="Table of Media"
+        tableSubTitle=""
+      />
+    </Layout>
   )
 }
 
