@@ -1,5 +1,5 @@
 import React, {useMemo} from 'react'
-import ColumnFilter from '../components/ColumnFilter'
+import ColumnFilter from '../helpers/ColumnFilter'
 import Layout from '../components/Layout'
 
 import Table from '../components/Table'
